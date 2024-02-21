@@ -1,0 +1,27 @@
+host: devpms.instaittech.com
+ssh user: devpmsuser
+ssh pass: dpms@4521
+
+
+//db detail.
+define( 'DB_USER', 'insta_grp_adm' );define( 'DB_PASSWORD', 'Hur63(^!2fj76' );define( 'DB_HOST', 'insta-group-db-220822.cnfmcn8yh94s.us-east-1.rds.amazonaws.com' );
+
+dpms@4521
+
+
+//git credentials
+git clone https://lokendra_k@bitbucket.org/insta-it/instaittech-www.git
+
+email: lokendra@instaittech.com
+
+pass: ATBBTHZgZam6WMdkDCZ4eZyeP9L9ABA7798D
+
+
+git remote set-url origin https://github.com/myName/GitTest.git
+
+
+git remote add origin https://lokendra_k@bitbucket.org/insta-it/instaittech-www.git
+
+
+
+

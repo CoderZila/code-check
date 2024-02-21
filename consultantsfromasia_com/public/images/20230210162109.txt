@@ -1,0 +1,7 @@
+host: devpms.instaittech.com
+ssh user: devpmsuser
+ssh pass: dpms@4521
+
+
+//db detail.
+define( 'DB_USER', 'insta_grp_adm' );define( 'DB_PASSWORD', 'Hur63(^!2fj76' );define( 'DB_HOST', 'insta-group-db-220822.cnfmcn8yh94s.us-east-1.rds.amazonaws.com' );

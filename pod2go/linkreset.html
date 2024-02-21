@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Pod2go</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+      <meta name="keywords" content="" />
+      <meta name="robots" content="" />
+      <meta name="author" content="" />
+      <meta name="description" content="" />
+      <link rel="shortcut icon" type="image/icon" href="">
+      <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+      <!--jquery ui -->
+      <link href="assets/jquery-ui/jquery-ui.min.css" rel="stylesheet">
+      <!--jquery ui -->
+      <link href="assets/fontawesome/css/all.css" rel="stylesheet">
+      <link href="assets/css/font.css" rel="stylesheet">
+      <link href="assets/css/style.css?ver=1.5" rel="stylesheet">
+      <link href="assets/css/responsive.css?ver=1.5" rel="stylesheet">
+   </head>
+   <body>
+      <section class="reset_password_wrap">
+         <div class="container" >
+            <div class="reset_pass">
+               <div class="reset_pass_inn">
+                  <h3>Resetta la password</h3>
+                  <div class="reg_form_inn register_form_sec">
+                     <form>
+                        <div class="form-group">
+                           <label for="email">Email</label>
+                           <input type="email" class="form-control" id="" placeholder="">
+                        </div>
+                        <div class="reg_btn_wrap">
+                           <button type="submit" class="register_btn"> <a href="resetpassw.html">Ottieni link di reset</a></button>
+                        </div>
+                        <div class="terms_condition">
+                           <p><a href="">Torna al login</a>
+                           </p>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- jquery library js -->
+      <script src="assets/js/jquery.min.js"></script>
+      <!-- jquery library js -->
+      <!-- bootstrap js file-->
+      <script src="assets/js/bootstrap.bundle.min.js"></script>
+      <!-- jquery ui -->
+      <script src="assets/jquery-ui/jquery-ui.min.js"></script>
+      <script>
+         $(document).ready(function() {
+               $('.main-password').find('.input-password').each(function(index, input) {
+                   var $input = $(input);
+                   $input.parent().find('.icon-view').click(function() {
+                       var change = "";
+                       if ($(this).find('i').hasClass('fa-eye')) {
+                         $(this).find('i').removeClass('fa-eye')
+                         $(this).find('i').addClass('fa-eye-slash')
+                         change = "text";
+                       } else {
+                         $(this).find('i').removeClass('fa-eye-slash')
+                         $(this).find('i').addClass('fa-eye')
+                         change = "password";
+                       }
+                       var rep = $(" < input type = '" + change + "' / > ").attr('id', $input.attr('id')).attr('name', $input.attr('name')).attr('class', $input.attr('class')).val($input.val()).insertBefore($input); $input.remove(); $input = rep;
+                       }).insertAfter($input);
+                   });
+               });
+      </script>
+      <!-- Select Menu -->
+      <script>
+         $(function() {
+           $("#speed").selectmenu();
+           $("#files").selectmenu();
+           $("#number").selectmenu().selectmenu("menuWidget").addClass("overflow");
+           $("#salutation").selectmenu();
+         });
+      </script>
+      <!-- Checkbox -->
+      <script>
+         $(function() {
+           $("input").checkboxradio();
+         });
+      </script>
+   </body>
+</html>

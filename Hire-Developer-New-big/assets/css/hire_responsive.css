@@ -1,0 +1,439 @@
+@media(min-width: 1400px) {
+    .container_lg {
+        max-width: 1270px;
+    }
+}
+@media(min-width: 1600px) {
+    .container_lg {
+        max-width: 1600px;
+    }
+}
+@media(min-width: 1800px) {
+    .container_lg {
+        max-width: 1790px;
+    }
+}
+@media(max-width: 1600px) {
+    .n_hire_dev_banner_caption p {
+        margin-bottom: 35px;
+    }
+    .n_hire_dev_banner_caption .headings {
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 1400px) {
+    .n_hire_developer_banner {
+        padding-top: 110px;
+        min-height: calc(100vh - 30px);
+    }
+    .n_hire_state_wraper {
+        padding: 15px 10px;
+    }
+    .n_hire_statistics_sec {
+        margin-top: -100px;
+    }
+    .h_dev_list_card .dev_posttxt {
+        font-size: 20px;
+    }
+    .h_dev_list_card .dev_name {
+        font-size: 25px;
+    }
+    .h_dev_list_card:after {
+        width: 20px;
+    }
+    .h_dev_list_card .imgboxwrap, .h_dev_list_card .contentbox {
+        padding-right: 39px;
+    }
+}
+@media(max-width: 1199px) {
+    .n_hire_statistics_sec {
+        margin-top: 0;
+    }
+    .h_customer_carousel_container {
+        padding: 0 40px;
+    }
+    .n_hire_customer_feed_card .customerimg {
+        margin-right: 30px;
+    }
+    .h_customer_carousel .owl-nav .owl-prev {
+        left: -40px;
+     }
+    .h_customer_carousel .owl-nav .owl-next {
+       right: -40px;
+    }
+    .owl-carousel .owl-nav button {
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+    }
+}
+@media(max-width: 991px) {
+    .trusted_prtnr_logorow {
+        margin-left: -10px;
+        margin-right: -10px;
+        justify-content: center;
+    }
+    .trusted_prtnr_colm {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    /* home banner */
+    .n_hire_dev_banner_caption .headings {
+       margin-bottom: 30px;
+    }
+    .n_hire_dev_banner_caption .headings {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .n_hire_dev_banner_caption p {
+        font-size: 16px;
+    } 
+    /* home banner */
+    .hire_sec_heading .hire_sec_title {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .n_hire_customer_feed_card .customerimg {
+        width: 250px;
+    }
+    .n_hire_customer_feed_card .customerimg img {
+        height: 250px;
+        width: 250px;
+        border-radius: 15px;
+    }
+    .n_hire_developer_stepboxwrap {
+        margin-bottom: 30px;
+    }
+    .trusted_partner_section {
+        margin-top: 0px;
+    }
+    .n_hire_developer_stepboxwrap .step_zshape {
+        display: none;
+    }
+    .n_hire_developer_stepboxwrap .colms {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .n_hire_developer_stepboxwrap .colms:nth-child(2n) {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .hire_static_counterbox .counts_headings {
+        font-size: 36px;
+    }
+    .hire_static_counterbox p {
+        font-size: 16px;
+    }
+    .n_hire_customer_feed_sec {
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+}
+@media(max-width: 767px) {
+    .n_hire_developer_banner {
+        min-height: 600px;
+    }
+    .h_dev_list_carousel .owl-stage-outer {
+        padding: 30px 0 30px;
+    }
+    .n_hire_faq_sec .faq_mark_sign {
+        text-align: center;
+    }
+    .n_hire_faq_sec .faq_mark_sign img {
+        max-width: 200px;
+    }
+    .n_hire_deveoper_list_sec .big_container:before, .n_hire_deveoper_list_sec .big_container:after {
+        display: none;
+    }
+    .hire_devcompare_table .table tr th {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .hire_devcompare_table .table tr td {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    /* home banner */
+    .n_hire_dev_banner_caption .headings {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .n_hire_dev_banner_caption p {
+        font-size: 15px;
+        margin-bottom: 40px;
+    }
+    .get_knowbtn {
+        font-size: 16px;
+    }
+    /* home banner */
+    .hir_fixed_social_icons {
+        right: 5px;
+    }
+    .n_hire_customer_feed_card {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .n_hire_customer_feed_card .customerimg {
+        margin-right: 0;
+    }
+    .n_hire_customer_feedback_text {
+        flex: 0 0 auto;
+        width: 100%;
+        padding-top: 30px;
+    }
+    body {
+        font-size: 15px;
+    }
+    .n_hire_customer_feedback_text .top_para p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .common_orange_btn, .common_white_btn, .common_border_btn {
+        font-size: 14px;
+        padding: 0 20px;
+    }
+    .hire_sec_heading {
+        margin-bottom: 40px;
+    }
+    .hire_sec_heading .hire_sec_title {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    p {
+        line-height: 22px;
+    }
+    .hire_awards_certi_row {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+    .hire_awards_certi_colm {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .hire_awards_certi_card {
+        text-align: center;
+        width: 150px;
+    }
+    .hire_awards_certi_card img {
+        max-width: 150px;
+    }
+    .hire_main_header .site_logo img {
+        width: 185px;
+        max-width: 185px;
+    }
+}
+@media(max-width: 480px) {
+    .hire_sec_heading .hire_sec_title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .n_hire_dev_banner_caption .bnr_projectbtn {
+        margin-right: 5px;
+    }
+    .hire_main_header .site_logo img {
+        width: 110px;
+        max-width: 110px;
+    }
+    .hire_main_header .h_hiredev_btn {
+        margin-left: 5px;
+    }
+    .hire_main_header .h_right_buttons .btnss {
+        padding: 3px 8px;
+        font-size: 12px;
+        line-height: 30px;
+        text-align: center;
+        min-height: 30px;
+        height: auto;
+    }
+}
+@media(max-width: 430px) {
+    .n_hire_developer_banner .landingcurve_shapeimg {
+        bottom: -2px;
+    }
+}
+/*======================= blog page media css =====================*/
+@media(max-width: 991px) {
+    .h_blog_item_content p {
+        font-size: 16px;
+    } 
+    .h_blog_item_content .headings {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    /* blog css */
+    .blog_single_heading {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    /* blog css */
+}
+@media(max-width: 767px) {
+    .h_blog_item_content p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 25px;
+    }
+    .h_blog_item_content .headings {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .h_blog_item_content {
+        margin-top: 30px;
+    }
+    .hire_blog_item .row{
+        flex-direction: column-reverse;
+    }
+    .blog_single_desc h2 {
+        font-size: 22px;
+    }
+    .blog_single_desc h3 {
+        font-size: 18px;
+    }
+    .blog_single_heading {
+        font-size: 30px;
+        line-height: 36px;
+    }
+   .hire_side_requestform .heading {
+        padding: 10px 15px;
+        font-size: 20px;
+    }
+    .blog_tbl_content_head {
+        padding: 10px 15px;
+        font-size: 20px;
+    }
+    .blog_tbl_content_head .heading {
+        font-size: 20px;
+    }
+    /* blog newsletter css */
+    .blog_newsletter_sec .hire_sec_heading {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .blognewsletter_form {
+        padding: 35px 0;
+    }
+    .blognewsletter_form .news_heading {
+        font-size: 22px;
+        margin: 0px 0 15px;
+    }
+    .blog_newsletter_sec {
+        min-height: 200px;
+    }
+    /* blog newsletter css */
+    .blog_filter_tab .filter_btn {
+        font-size: 15px;
+        padding: 4px 9px;
+        margin-right: 5px;
+    }
+}
+/*======================= blog page media css End =====================*/
+/*======================= hire resume  page media css =====================*/
+@media(max-width: 991px) {
+    .hiredev_resume_detail_sec {
+        margin-top: 40px;
+    }
+    .hire_resume_banner_cover > .row {
+        flex-direction: column-reverse;
+    }
+    .hire_resume_bnr_img {
+        text-align: left;
+    }
+    .hire_resume_bnr_img .imgcard {
+        width: 250px;
+        margin-right: 25px;
+    }
+    .hire_resume_bnr_img .imgcard img {
+        height: 350px;
+        border-radius: 35px 0 0px 0;
+    }
+    .hire_resume_bnr_img .imgcard:after {
+        top: 25px;
+        left: 25px;
+        border-radius: 0 0 35px 
+    }
+    .hire_resume_bnr_caption .headings {
+        font-size: 36px;
+    }
+    .hire_resume_sec_heading .hire_sec_title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .hire_resume_sec_heading .hire_sec_title .small {
+        font-size: 18px;
+    }
+}
+@media(max-width: 767px) {
+    .hire_resume_bnr_caption p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .hire_resume_bnr_caption .headings {
+        font-size: 30px;
+    }
+    .hire_resume_sec_heading .hire_sec_title {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .hire_resume_sec_heading .hire_sec_title .small {
+        font-size: 16px;
+    }
+    .hire_resume_bnr_caption .hireme_btn {
+        margin-right: 10px;
+    }
+    .resume_question_mark {
+        width: 120px;
+    }
+    .h_resume_about_skills {
+        padding-left: 10px;
+        width: calc(100% - 120px);
+        width: -webkit-calc(100% - 120px);
+        width: -moz-calc(100% - 120px);
+        padding-top: 30px;
+    }
+    .h_resume_about_row .resume_question_marktxt {
+        font-size: 238px;
+        line-height: 198px;
+    }
+    .h_dev_resume_detail_lists > li {
+        padding-left: 15px;
+    }
+    .h_dev_resume_detail_lists .headings {
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+        flex-wrap: wrap;
+    }
+    .h_dev_resume_detail_lists .headings .resume_post {
+        font-size: 18px;
+        line-height: 22px;
+        width: 100%;
+    }
+    .h_dev_resume_detail_lists .headings .intute_name {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+@media(max-width: 575px) {
+    .hire_resume_bnr_caption .headings .borderline {
+        display: none;
+    }
+    .h_resume_about_skills {
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+@media(max-width: 480px) {
+    .hire_resume_bnr_caption .headings {
+        font-size: 25px;
+    }
+    .hire_resume_sec_heading .hire_sec_title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .hire_resume_sec_heading .hire_sec_title .small {
+        font-size: 14px;
+    }
+}
+/*======================= hire resume  page media css End =====================*/

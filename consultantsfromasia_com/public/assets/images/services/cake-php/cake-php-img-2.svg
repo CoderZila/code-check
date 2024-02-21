@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614" height="614" viewBox="0 0 614 614">
+  <defs>
+    <filter id="Ellipse_489" x="0" y="0" width="614" height="614" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#ffcfcf" flood-opacity="0.012"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cake-php-2" transform="translate(-3049 13167)">
+    <g id="vue-js-2" transform="translate(-1693 -5539)">
+      <g id="ai_2" data-name="ai 2" transform="translate(2740 -326)">
+        <g id="ionic_2" data-name="ionic 2" transform="translate(-306 -1365)">
+          <g id="yii_2" data-name="yii 2" transform="translate(-1813 -893)">
+            <g id="Kotlin_2" data-name="Kotlin 2" transform="translate(1485 -625)">
+              <g id="magento_2" data-name="magento 2" transform="translate(65 -1543)">
+                <g id="django_2" data-name="django 2" transform="translate(-945 -1191)">
+                  <g id="symfony_2" data-name="symfony 2" transform="translate(-545.879 -694.879)">
+                    <g id="ruby-on-rails_2" data-name="ruby-on-rails 2" transform="translate(4083 -972)">
+                      <g id="django_2-2" data-name="django 2">
+                        <g id="codeigniter_2" data-name="codeigniter 2">
+                          <g id="react-native_2" data-name="react-native 2">
+                            <g id="laraval_2" data-name="laraval 2">
+                              <g transform="matrix(1, 0, 0, 1, -21.12, -18.12)" filter="url(#Ellipse_489)">
+                                <circle id="Ellipse_489-2" data-name="Ellipse 489" cx="286" cy="286" r="286" transform="translate(21 18)" fill="#f8f7f7"/>
+                              </g>
+                              <circle id="Ellipse_488" data-name="Ellipse 488" cx="235" cy="235" r="235" transform="translate(50.879 50.879)" fill="#f3f3f3"/>
+                              <circle id="Ellipse_487" data-name="Ellipse 487" cx="182" cy="182" r="182" transform="translate(103.879 103.879)" fill="#eee"/>
+                              <path id="Path_19249" data-name="Path 19249" d="M120.818,0A120.818,120.818,0,1,1,0,120.818,120.818,120.818,0,0,1,120.818,0Z" transform="translate(165.061 165.061)" fill="#e9e9e9"/>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="cakephp-1" transform="translate(3217.004 -12975.538)">
+      <path id="Path_360" data-name="Path 360" d="M151,57.917V13.9c0,10.367-11.351,19.888-30.3,27.417L12,13.9V57.917L120.695,85.334C139.644,77.817,151,68.3,151,57.917Z" transform="translate(126.996 120.667)" fill="#d32f2f"/>
+      <path id="Path_361" data-name="Path 361" d="M247.69,118.005c18.95-7.575,30.3-17.05,30.3-27.428V46.5c0-24.255-62.259-44-139-44C62.2,2.5,0,22.237,0,46.492V90.577c0,24.29,62.235,44,139,44V90.6ZM139,222.577V178.584c-76.8,0-139-19.749-139-43.992v43.992C0,202.874,62.2,222.577,139,222.577Z" fill="#d32f2f"/>
+    </g>
+  </g>
+</svg>

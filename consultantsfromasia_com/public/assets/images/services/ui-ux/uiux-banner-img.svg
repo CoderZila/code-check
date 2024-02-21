@@ -1,0 +1,393 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="483.433" height="397.482" viewBox="0 0 483.433 397.482">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="33.937" height="173.329" rx="6.217" transform="translate(173.329 0) rotate(90)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-18.158" y1="2.217" x2="-14.197" y2="2.852" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0e0e0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="33.937" height="173.329" rx="6.217" transform="translate(173.329) rotate(90)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-16.906" y1="1.972" x2="-12.945" y2="2.607" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa4141"/>
+      <stop offset="1" stop-color="#dd1928"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-19.492" y1="2.478" x2="-15.532" y2="3.113" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="389.624" height="201.17" rx="7.112" transform="translate(201.17 0) rotate(90)" fill="#2a2a2a"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.366" y1="2.751" x2="0.366" y2="1.751" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.221" stop-color="#d9dde2" stop-opacity="0.282"/>
+      <stop offset="0.798" stop-color="#7c8899"/>
+      <stop offset="0.884" stop-color="#7d899a" stop-opacity="0.988"/>
+      <stop offset="0.916" stop-color="#838f9f" stop-opacity="0.937"/>
+      <stop offset="0.939" stop-color="#8e98a7" stop-opacity="0.851"/>
+      <stop offset="0.957" stop-color="#9ea6b3" stop-opacity="0.729"/>
+      <stop offset="0.973" stop-color="#b2b9c3" stop-opacity="0.569"/>
+      <stop offset="0.987" stop-color="#cacfd6" stop-opacity="0.376"/>
+      <stop offset="1" stop-color="#e7e9ec" stop-opacity="0.149"/>
+      <stop offset="1" stop-color="#e8eaed" stop-opacity="0.141"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="374.274" height="189.019" rx="4.248" transform="translate(189.019) rotate(90)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f33c3e"/>
+      <stop offset="1" stop-color="#d71927"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(1, 0.004, -0.004, 1, 0.002, -0.002)" gradientUnits="objectBoundingBox">
+      <stop offset="0.338" stop-color="#8e9399"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.338" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0.248" y1="0.837" x2="0.697" y2="-0.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e11f1d"/>
+      <stop offset="1" stop-color="#ff9784"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#acb4c0"/>
+      <stop offset="0.487" stop-color="#c6ccd6"/>
+      <stop offset="1" stop-color="#dee3ea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd1928"/>
+      <stop offset="0.21" stop-color="#dd1928"/>
+      <stop offset="0.577" stop-color="#fb4242"/>
+      <stop offset="0.851" stop-color="#fa4141"/>
+      <stop offset="1" stop-color="#f83f3f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="-11.513" y1="3.708" x2="-12.827" y2="4.457" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2414db"/>
+      <stop offset="0.21" stop-color="#462ae4"/>
+      <stop offset="0.577" stop-color="#7d4ef2"/>
+      <stop offset="0.851" stop-color="#9f65fb"/>
+      <stop offset="1" stop-color="#ac6eff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0.113" y1="1.028" x2="0.888" y2="-0.028" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd1928"/>
+      <stop offset="0.21" stop-color="#dd1928"/>
+      <stop offset="0.577" stop-color="#f3383b"/>
+      <stop offset="0.851" stop-color="#fa4141"/>
+      <stop offset="1" stop-color="#fa4141"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="-9.328" y1="1.553" x2="-10.642" y2="2.301" xlink:href="#linear-gradient-12"/>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="125.981" height="233.11" rx="10.69" transform="translate(233.11 0) rotate(90)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-16" x1="-1.528" y1="-0.393" x2="0.399" y2="0.46" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d91a28"/>
+      <stop offset="1" stop-color="#f53f3f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="0.198" y1="1.075" x2="0.802" y2="-0.075" xlink:href="#linear-gradient-9"/>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="31.54" height="101.224" rx="5.778" transform="translate(101.224 0) rotate(90)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-19" x1="-11.749" y1="1.575" x2="-9.045" y2="2.265" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-20" x1="0.5" x2="0.5" y2="0.837" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df1d2a"/>
+      <stop offset="1" stop-color="#f63d3e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="-10.457" y1="1.172" x2="-7.753" y2="1.862" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-22" x1="0.213" y1="1.087" x2="0.787" y2="-0.087" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd1b29"/>
+      <stop offset="1" stop-color="#f53c3e"/>
+    </linearGradient>
+  </defs>
+  <g id="uiux_3" data-name="uiux 3" transform="translate(-319.183 -138.943)">
+    <path id="Path_4" data-name="Path 4" d="M566.437,404.6h85.475V297.256" transform="translate(118.086 75.609)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.709" stroke-dasharray="2.835 2.835"/>
+    <path id="Path_5" data-name="Path 5" d="M473.879,266.2H388.4v75.881" transform="translate(33.059 60.779)" fill="none" stroke="#707070" stroke-miterlimit="10" stroke-width="0.709" stroke-dasharray="2.835 2.835"/>
+    <line id="Line_2" data-name="Line 2" x1="44.632" transform="translate(462.307 254.274)" fill="none" stroke="#707070" stroke-miterlimit="10" stroke-width="0.709" stroke-dasharray="2.835 2.835"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(629.287 243.285)">
+      <g id="Group_9" data-name="Group 9" transform="translate(0 45.289)">
+        <g id="Group_8" data-name="Group 8">
+          <g id="Group_7" data-name="Group 7" clip-path="url(#clip-path)">
+            <rect id="Rectangle_3" data-name="Rectangle 3" width="33.937" height="173.329" rx="6.217" transform="translate(173.329 0) rotate(90)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle_4" data-name="Rectangle 4" width="33.937" height="173.329" rx="6.217" transform="translate(173.329 0) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_12" data-name="Group 12" transform="translate(0 87.783)">
+        <g id="Group_11" data-name="Group 11">
+          <g id="Group_10" data-name="Group 10" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_6" data-name="Rectangle 6" width="33.937" height="173.329" rx="6.217" transform="translate(173.329) rotate(90)" fill="url(#linear-gradient-2)"/>
+            <rect id="Rectangle_7" data-name="Rectangle 7" width="33.937" height="173.329" rx="6.217" transform="translate(173.329) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="51.41" height="20.688" rx="2.815" transform="translate(115.247 94.408)" fill="url(#linear-gradient-3)"/>
+      <text id="Edit" transform="translate(132.043 105.993)" fill="#fff" font-size="6" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Edit</tspan></text>
+      <text id="May_23_-_June_30" data-name="May 23 - June 30" transform="translate(97.973 64.318)" fill="#2f3541" font-size="6" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">May 23 - June 30</tspan></text>
+      <g id="Group_15" data-name="Group 15">
+        <g id="Group_14" data-name="Group 14">
+          <g id="Group_13" data-name="Group 13" clip-path="url(#clip-path)">
+            <rect id="Rectangle_10" data-name="Rectangle 10" width="33.937" height="173.329" rx="6.217" transform="translate(173.329 0) rotate(90)" fill="url(#linear-gradient-4)"/>
+            <rect id="Rectangle_11" data-name="Rectangle 11" width="33.937" height="173.329" rx="6.217" transform="translate(173.329 0) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <text id="Apr_23_-_May_22" data-name="Apr 23 - May 22" transform="translate(97.973 19.029)" fill="#2f3541" font-size="6" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Apr 23 - May 22</tspan></text>
+    </g>
+    <g id="Group_41" data-name="Group 41" transform="translate(494.809 138.943)">
+      <g id="Group_26" data-name="Group 26">
+        <path id="Rectangle_14" data-name="Rectangle 14" d="M2.883,0h3.05a0,0,0,0,1,0,0V29.342a0,0,0,0,1,0,0H2.883A2.883,2.883,0,0,1,0,26.459V2.883A2.883,2.883,0,0,1,2.883,0Z" transform="translate(0 58.721)" fill="#dc1928"/>
+        <path id="Path_36" data-name="Path 36" d="M4.26,0H5.933V29.342H4.26A4.26,4.26,0,0,1,0,25.082V4.26A4.26,4.26,0,0,1,4.26,0Z" transform="translate(0 100.66)" fill="#dc1928"/>
+        <path id="Rectangle_16" data-name="Rectangle 16" d="M2.883,0h3.05a0,0,0,0,1,0,0V29.342a0,0,0,0,1,0,0H2.883A2.883,2.883,0,0,1,0,26.459V2.883A2.883,2.883,0,0,1,2.883,0Z" transform="translate(210.213 93.525) rotate(180)" fill="#dc1928"/>
+        <g id="Group_18" data-name="Group 18" transform="translate(4.521)">
+          <g id="Group_17" data-name="Group 17" clip-path="url(#clip-path-4)">
+            <rect id="Rectangle_17" data-name="Rectangle 17" width="389.624" height="201.17" rx="7.23" transform="translate(201.17 0) rotate(90)" fill="#2a2a2a"/>
+            <path id="Path_9" data-name="Path 9" d="M624.038,138.943h-164.7a18.42,18.42,0,0,0-18.235,18.6V509.966a18.81,18.81,0,0,0,1.8,8.026,18.888,18.888,0,0,1-.393-3.82V162.036a18.279,18.279,0,0,1,18.095-18.457h162.16a18.278,18.278,0,0,1,18.093,18.457V514.173a18.815,18.815,0,0,1-.393,3.821,18.8,18.8,0,0,0,1.806-8.028V157.544A18.421,18.421,0,0,0,624.038,138.943Z" transform="translate(-441.102 -138.943)" fill="#2a2a2a"/>
+            <path id="Path_10" data-name="Path 10" d="M624.038,138.943h-164.7a18.42,18.42,0,0,0-18.235,18.6V509.966a18.81,18.81,0,0,0,1.8,8.026,18.888,18.888,0,0,1-.393-3.82V162.036a18.279,18.279,0,0,1,18.095-18.457h162.16a18.278,18.278,0,0,1,18.093,18.457V514.173a18.815,18.815,0,0,1-.393,3.821,18.8,18.8,0,0,0,1.806-8.028V157.544A18.421,18.421,0,0,0,624.038,138.943Z" transform="translate(-441.102 -138.943)" fill="#2a2a2a"/>
+            <path id="Path_11" data-name="Path 11" d="M640.861,431.868a18.278,18.278,0,0,1-18.093,18.457H460.608a18.279,18.279,0,0,1-18.095-18.457L441.1,293.06v143.3a18.42,18.42,0,0,0,18.235,18.6h164.7a18.421,18.421,0,0,0,18.235-18.6V293.06Z" transform="translate(-441.102 -65.338)" fill="#2a2a2a"/>
+          </g>
+        </g>
+        <g id="Group_23" data-name="Group 23" transform="translate(11.033 7.034)">
+          <g id="Group_22" data-name="Group 22">
+            <rect id="Rectangle_19" data-name="Rectangle 19" width="374.274" height="189.019" rx="4.248" transform="translate(189.019) rotate(90)" fill="#fff"/>
+            <rect id="Rectangle_20" data-name="Rectangle 20" width="374.274" height="189.019" rx="4.286" transform="translate(189.019) rotate(90)" opacity="0.13" fill="url(#linear-gradient-5)" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="Group_21" data-name="Group 21">
+              <g id="Group_20" data-name="Group 20" clip-path="url(#clip-path-5)">
+                <path id="Path_12" data-name="Path 12" d="M444.921,152.433V509.249c0,4.821,3.431,8.73,7.664,8.73h82.952c2.453,0-79.27-1.2-79.27-1.2-4.084,0-7.4-5.692-7.4-10.342V155.24c0-4.65,3.311-10.343,7.4-10.343,0,0,81.723-1.194,79.27-1.194H452.585C448.352,143.7,444.921,147.611,444.921,152.433Z" transform="translate(-445.79 -143.704)" fill="#fff" fill-rule="evenodd" style="mix-blend-mode: soft-light;isolation: isolate"/>
+                <g id="Group_19" data-name="Group 19" transform="translate(6.532 -0.001)" opacity="0.66" style="mix-blend-mode: multiply;isolation: isolate">
+                  <path id="Path_13" data-name="Path 13" d="M620.388,145.838c8.749,0,8.21,6.2,8.21,11.128v347.75c0,4.931-.068,11.128-8.21,11.128L449.93,517.979H624.753c6.326,0,7.664-4.121,7.664-6.9V152.632c0-4.931-3.431-8.929-7.664-8.929H449.93Z" transform="translate(-449.93 -143.703)" fill="#919295" opacity="0.61" style="mix-blend-mode: multiply;isolation: isolate"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_14" data-name="Path 14" d="M553.515,162.256H493.1A11.746,11.746,0,0,1,481.622,153l-2.035-9.363h87.439L564.992,153A11.745,11.745,0,0,1,553.515,162.256Z" transform="translate(-418.201 -136.699)" fill="#2a2a2a"/>
+        <g id="Group_25" data-name="Group 25" transform="translate(23.523 12.223)">
+          <path id="Path_15" data-name="Path 15" d="M545.959,149.759l3.808,1.124,1.125,3.808,2.386-7.32Z" transform="translate(-410.026 -147.14)" fill="#9fa1b3"/>
+          <path id="Path_16" data-name="Path 16" d="M566.912,149.527h-.8v-1.306a.3.3,0,0,0-.3-.3h-9.689a.3.3,0,0,0-.3.3v5.767a.3.3,0,0,0,.3.3h9.689a.3.3,0,0,0,.3-.3v-1.3h.8a.3.3,0,0,0,.3-.3v-2.556A.3.3,0,0,0,566.912,149.527Zm-.7,2.318h-1.073v1.523l-4.523-.016v-4.474h4.523v1.491h1.073Z" transform="translate(-405.313 -146.878)" fill="#9fa1b3"/>
+          <g id="Group_24" data-name="Group 24">
+            <rect id="Rectangle_22" data-name="Rectangle 22" width="1.678" height="7.552" transform="translate(7.153)" fill="#9fa1b3"/>
+            <rect id="Rectangle_23" data-name="Rectangle 23" width="1.678" height="6.163" transform="translate(4.769 1.389)" fill="#9fa1b3"/>
+            <rect id="Rectangle_24" data-name="Rectangle 24" width="1.678" height="4.775" transform="translate(2.384 2.777)" fill="#9fa1b3"/>
+            <rect id="Rectangle_25" data-name="Rectangle 25" width="1.678" height="3.386" transform="translate(0 4.166)" fill="#9fa1b3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_32" data-name="Group 32" transform="translate(29.691 78.367)">
+        <g id="Group_27" data-name="Group 27" transform="translate(3.94 78.093)">
+          <text id="Mon" transform="translate(0 5)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Mon</tspan></text>
+        </g>
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="23.718" height="31.818" rx="1.712" transform="translate(0 36.295)" fill="#2a2a2a"/>
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="23.718" height="59.571" rx="2.064" transform="translate(31.778 8.543)" fill="#2a2a2a"/>
+        <path id="Path_35" data-name="Path 35" d="M3.193,0H20.525a3.193,3.193,0,0,1,3.193,3.193V64.92a3.193,3.193,0,0,1-3.193,3.193H3.193A3.193,3.193,0,0,1,0,64.92V3.193A3.193,3.193,0,0,1,3.193,0Z" transform="translate(63.556)" fill="url(#linear-gradient-6)"/>
+        <rect id="Rectangle_29" data-name="Rectangle 29" width="23.718" height="52.218" rx="1.977" transform="translate(95.334 15.896)" fill="#2a2a2a"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="23.718" height="63.722" rx="2.112" transform="translate(127.111 4.392)" fill="#2a2a2a"/>
+        <g id="Group_28" data-name="Group 28" transform="translate(35.984 78.093)">
+          <text id="Tue" transform="translate(0 5)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Tue</tspan></text>
+        </g>
+        <g id="Group_29" data-name="Group 29" transform="translate(69.164 78.093)">
+          <text id="Wed" transform="translate(0 5)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Wed</tspan></text>
+        </g>
+        <g id="Group_30" data-name="Group 30" transform="translate(102.78 78.093)">
+          <text id="Thu" transform="translate(0 5)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Thu</tspan></text>
+        </g>
+        <g id="Group_31" data-name="Group 31" transform="translate(132.929 78.093)">
+          <text id="Fri" transform="translate(0 5)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Fri</tspan></text>
+        </g>
+      </g>
+      <text id="DashBoard" transform="translate(52.371 51.097)" fill="#2f3541" font-size="10" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-27.56" y="0">DashBoard</tspan></text>
+      <text id="Welcome" transform="translate(25.646 59.416)" fill="#9fa1b3" font-size="5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Welcome</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit" data-name="Lorem ipsum dolor sit" transform="translate(28.29 189.455)" fill="#2b2e39" font-size="8" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">Lorem ipsum dolor sit</tspan></text>
+      <g id="Group_34" data-name="Group 34" transform="translate(148.743 176.412)">
+        <g id="Group_33" data-name="Group 33">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="19.027" cy="19.027" r="19.027" transform="matrix(1, -0.004, 0.004, 1, 1.136, 0.161)" opacity="0.57" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Path_17" data-name="Path 17" d="M538.72,273.011a14.094,14.094,0,1,1,14.641,13.524A14.093,14.093,0,0,1,538.72,273.011Z" transform="translate(-538.708 -258.323)" fill="url(#radial-gradient-2)"/>
+          <path id="Path_18" data-name="Path 18" d="M543.2,273.486a11.579,11.579,0,1,1,12.027,11.11A11.578,11.578,0,0,1,543.2,273.486Z" transform="translate(-536.57 -256.848)" fill="url(#linear-gradient-7)"/>
+        </g>
+        <path id="Path_19" data-name="Path 19" d="M548.045,267.3a3.412,3.412,0,0,1,4.786.084l.025-.024a3.412,3.412,0,0,1,4.7,4.946l-4.816,4.232-4.818-4.414A3.413,3.413,0,0,1,548.045,267.3Z" transform="translate(-534.756 -254.501)" fill="url(#linear-gradient-8)"/>
+      </g>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit" transform="translate(29.033 197.809)" fill="#767785" font-size="3.421" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</tspan></text>
+      <g id="Group_36" data-name="Group 36" transform="translate(24.371 225.221)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="162.176" height="33.698" rx="4.455" opacity="0.3" fill="url(#linear-gradient-9)"/>
+        <g id="Group_35" data-name="Group 35" transform="translate(8.203 7.162)">
+          <path id="Rectangle_32" data-name="Rectangle 32" d="M4.476,0H14.9a4.476,4.476,0,0,1,4.476,4.476V15.165A4.476,4.476,0,0,1,14.9,19.641H4.477A4.477,4.477,0,0,1,0,15.165V4.476A4.476,4.476,0,0,1,4.476,0Z" transform="translate(19.641 0) rotate(90)" fill="#dd1928"/>
+        </g>
+        <path id="Path_20" data-name="Path 20" d="M462.909,302.7l5.313,1,.6,5,3.461-8.755Z" transform="translate(-450.537 -287.27)" fill="#fff" fill-rule="evenodd"/>
+        <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(36.201 15.961)" fill="#2f3541" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+        <text id="June_25" data-name="June 25" transform="translate(37.208 23.519)" fill="#767785" font-size="5" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">June 25</tspan></text>
+        <path id="Path_21" data-name="Path 21" d="M561.059,311.117l-3.812-1.832a.714.714,0,0,0-.621,0l-3.811,1.832a.716.716,0,0,1-1.027-.644V298.816a.716.716,0,0,1,.717-.717h8.863a.716.716,0,0,1,.717.717v11.657A.715.715,0,0,1,561.059,311.117Z" transform="translate(-408.089 -288.152)" fill-rule="evenodd" fill="url(#linear-gradient-10)"/>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(24.371 267.559)">
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="162.176" height="33.698" rx="4.455" opacity="0.3" fill="url(#linear-gradient-9)"/>
+        <g id="Group_37" data-name="Group 37" transform="translate(8.203 7.162)">
+          <rect id="Rectangle_34" data-name="Rectangle 34" width="19.374" height="19.641" rx="4.476" transform="translate(19.641 0) rotate(90)" fill="url(#linear-gradient-12)"/>
+        </g>
+        <path id="Path_22" data-name="Path 22" d="M462.909,331.847l5.313,1,.6,5,3.461-8.755Z" transform="translate(-450.537 -315.69)" fill="#fff" fill-rule="evenodd"/>
+        <text id="Dolor_sit_amet" data-name="Dolor sit amet" transform="translate(36.201 15.962)" fill="#2f3541" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Dolor sit amet</tspan></text>
+        <text id="June_21" data-name="June 21" transform="translate(37.208 23.52)" fill="#767785" font-size="5" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">June 21</tspan></text>
+        <path id="Path_23" data-name="Path 23" d="M561.059,339.771l-3.812-1.834a.714.714,0,0,0-.621,0l-3.811,1.834a.717.717,0,0,1-1.027-.646V327.468a.715.715,0,0,1,.717-.715h8.863a.715.715,0,0,1,.717.715v11.657A.716.716,0,0,1,561.059,339.771Z" transform="translate(-408.089 -316.805)" fill-rule="evenodd" fill="url(#linear-gradient-13)"/>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(24.371 309.897)">
+        <rect id="Rectangle_35" data-name="Rectangle 35" width="162.176" height="33.698" rx="4.455" opacity="0.3" fill="url(#linear-gradient-9)"/>
+        <g id="Group_39" data-name="Group 39" transform="translate(8.203 7.162)">
+          <rect id="Rectangle_36" data-name="Rectangle 36" width="19.374" height="19.641" rx="4.476" transform="translate(19.641) rotate(90)" fill="url(#linear-gradient-15)"/>
+        </g>
+        <path id="Path_24" data-name="Path 24" d="M462.909,359.874l5.313,1,.6,5,3.461-8.755Z" transform="translate(-450.537 -344.643)" fill="#fff" fill-rule="evenodd"/>
+        <text id="Lorem_Ipsum-2" data-name="Lorem Ipsum" transform="translate(36.201 15.962)" fill="#2f3541" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+        <text id="June_20" data-name="June 20" transform="translate(37.208 23.52)" fill="#767785" font-size="5" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">June 20</tspan></text>
+        <path id="Path_25" data-name="Path 25" d="M561.059,368.424l-3.812-1.832a.714.714,0,0,0-.621,0l-3.811,1.832a.716.716,0,0,1-1.027-.644V356.121a.716.716,0,0,1,.717-.715h8.863a.716.716,0,0,1,.717.715v11.658A.715.715,0,0,1,561.059,368.424Z" transform="translate(-408.089 -345.459)" fill="#262626" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_79" data-name="Group 79" transform="translate(319.183 410.444)">
+      <g id="Group_44" data-name="Group 44">
+        <g id="Group_43" data-name="Group 43">
+          <g id="Group_42" data-name="Group 42" clip-path="url(#clip-path-6)">
+            <rect id="Rectangle_37" data-name="Rectangle 37" width="125.981" height="233.11" rx="10.69" transform="translate(233.11 0) rotate(90)" fill="url(#linear-gradient-16)"/>
+            <rect id="Rectangle_38" data-name="Rectangle 38" width="125.981" height="233.11" rx="10.69" transform="translate(233.11 0) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_45" data-name="Group 45" transform="translate(21.896 75.93)">
+        <rect id="Rectangle_40" data-name="Rectangle 40" width="67.911" height="30.461" rx="5.18" fill="url(#linear-gradient-17)"/>
+      </g>
+      <text id="Lorem_Ipsum-3" data-name="Lorem Ipsum" transform="translate(55.554 30.552)" fill="#2f3541" font-size="9" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-29.781" y="0">Lorem Ipsum</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit" transform="translate(23.358 39.08)" fill="#767785" font-size="3.148" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="3">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="0" y="9.248">elit</tspan></text>
+      <text id="Play" transform="translate(35.154 95.544)" fill="#fff" font-size="9" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Play</tspan></text>
+      <path id="Path_27" data-name="Path 27" d="M367.221,382.453v8.942a.912.912,0,0,0,1.414.761l6.787-4.471a.913.913,0,0,0,0-1.523l-6.787-4.471A.913.913,0,0,0,367.221,382.453Z" transform="translate(-296.24 -294.582)" fill="#fff" fill-rule="evenodd"/>
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="95.652" height="87.041" rx="6.977" transform="translate(118.282 20.116)" opacity="0.5" fill="url(#linear-gradient-18)"/>
+      <g id="Group_73" data-name="Group 73" transform="translate(126.469 38.709)">
+        <g id="Group_46" data-name="Group 46" transform="translate(55.785 11.378)">
+          <rect id="Rectangle_42" data-name="Rectangle 42" width="0.849" height="21.974" fill="#dd1928"/>
+        </g>
+        <g id="Group_47" data-name="Group 47" transform="translate(58.883 11.126)">
+          <rect id="Rectangle_43" data-name="Rectangle 43" width="0.849" height="22.225" fill="#dd1928"/>
+        </g>
+        <g id="Group_48" data-name="Group 48" transform="translate(61.982 1.171)">
+          <rect id="Rectangle_44" data-name="Rectangle 44" width="0.849" height="32.181" fill="#dd1928"/>
+        </g>
+        <g id="Group_49" data-name="Group 49" transform="translate(65.082 6.224)">
+          <rect id="Rectangle_45" data-name="Rectangle 45" width="0.849" height="27.128" fill="#dd1928"/>
+        </g>
+        <g id="Group_50" data-name="Group 50" transform="translate(68.181 18.547)">
+          <rect id="Rectangle_46" data-name="Rectangle 46" width="0.849" height="14.805" fill="#dd1928"/>
+        </g>
+        <g id="Group_51" data-name="Group 51" transform="translate(71.28 13.316)">
+          <rect id="Rectangle_47" data-name="Rectangle 47" width="0.849" height="20.035" fill="#dd1928"/>
+        </g>
+        <g id="Group_52" data-name="Group 52" transform="translate(74.378 10.37)">
+          <rect id="Rectangle_48" data-name="Rectangle 48" width="0.849" height="22.982" fill="#dd1928"/>
+        </g>
+        <g id="Group_53" data-name="Group 53" transform="translate(77.479 17.447)">
+          <rect id="Rectangle_49" data-name="Rectangle 49" width="0.849" height="15.905" fill="#dd1928"/>
+        </g>
+        <g id="Group_54" data-name="Group 54" transform="translate(80.577 21.333)">
+          <rect id="Rectangle_50" data-name="Rectangle 50" width="0.849" height="12.019" fill="#dd1928"/>
+        </g>
+        <g id="Group_55" data-name="Group 55" transform="translate(15.496 13.645)">
+          <rect id="Rectangle_51" data-name="Rectangle 51" width="0.849" height="19.707" fill="#dd1928"/>
+        </g>
+        <g id="Group_56" data-name="Group 56" transform="translate(18.595 6.638)">
+          <rect id="Rectangle_52" data-name="Rectangle 52" width="0.849" height="26.714" fill="#dd1928"/>
+        </g>
+        <g id="Group_57" data-name="Group 57" transform="translate(21.694)">
+          <rect id="Rectangle_53" data-name="Rectangle 53" width="0.849" height="33.352" fill="#dd1928"/>
+        </g>
+        <g id="Group_58" data-name="Group 58" transform="translate(24.793 5.881)">
+          <rect id="Rectangle_54" data-name="Rectangle 54" width="0.849" height="27.471" fill="#dd1928"/>
+        </g>
+        <g id="Group_59" data-name="Group 59" transform="translate(27.892 13.93)">
+          <rect id="Rectangle_55" data-name="Rectangle 55" width="0.849" height="19.422" fill="#dd1928"/>
+        </g>
+        <g id="Group_60" data-name="Group 60" transform="translate(30.991 16.266)">
+          <rect id="Rectangle_56" data-name="Rectangle 56" width="0.849" height="17.086" fill="#dd1928"/>
+        </g>
+        <g id="Group_61" data-name="Group 61" transform="translate(34.091 13.93)">
+          <rect id="Rectangle_57" data-name="Rectangle 57" width="0.849" height="19.422" fill="#dd1928"/>
+        </g>
+        <g id="Group_62" data-name="Group 62" transform="translate(37.19 9.024)">
+          <rect id="Rectangle_58" data-name="Rectangle 58" width="0.849" height="24.328" fill="#dd1928"/>
+        </g>
+        <g id="Group_63" data-name="Group 63" transform="translate(40.289 11.252)">
+          <rect id="Rectangle_59" data-name="Rectangle 59" width="0.849" height="22.1" fill="#dd1928"/>
+        </g>
+        <g id="Group_64" data-name="Group 64" transform="translate(43.388 16.076)">
+          <rect id="Rectangle_60" data-name="Rectangle 60" width="0.849" height="17.276" fill="#dd1928"/>
+        </g>
+        <g id="Group_65" data-name="Group 65" transform="translate(46.487 13.293)">
+          <rect id="Rectangle_61" data-name="Rectangle 61" width="0.849" height="20.059" fill="#dd1928"/>
+        </g>
+        <g id="Group_66" data-name="Group 66" transform="translate(49.586 19.096)">
+          <rect id="Rectangle_62" data-name="Rectangle 62" width="0.849" height="14.256" fill="#dd1928"/>
+        </g>
+        <g id="Group_67" data-name="Group 67" transform="translate(52.685 18.196)">
+          <rect id="Rectangle_63" data-name="Rectangle 63" width="0.849" height="15.156" fill="#dd1928"/>
+        </g>
+        <g id="Group_68" data-name="Group 68" transform="translate(0 17.956)">
+          <rect id="Rectangle_64" data-name="Rectangle 64" width="0.849" height="15.396" fill="#dd1928"/>
+        </g>
+        <g id="Group_69" data-name="Group 69" transform="translate(3.099 24.424)">
+          <rect id="Rectangle_65" data-name="Rectangle 65" width="0.849" height="8.928" fill="#dd1928"/>
+        </g>
+        <g id="Group_70" data-name="Group 70" transform="translate(6.198 17.59)">
+          <rect id="Rectangle_66" data-name="Rectangle 66" width="0.849" height="15.761" fill="#dd1928"/>
+        </g>
+        <g id="Group_71" data-name="Group 71" transform="translate(9.297 7.073)">
+          <rect id="Rectangle_67" data-name="Rectangle 67" width="0.849" height="26.279" fill="#dd1928"/>
+        </g>
+        <g id="Group_72" data-name="Group 72" transform="translate(12.397 10.431)">
+          <rect id="Rectangle_68" data-name="Rectangle 68" width="0.849" height="22.921" fill="#dd1928"/>
+        </g>
+      </g>
+      <text id="Untitled._mp3" data-name="Untitled. mp3" transform="translate(126.235 81.88)" fill="#2b2e39" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Untitled. mp3</tspan></text>
+      <text id="June_25-2" data-name="June 25" transform="translate(127.55 89.261)" fill="#2b2e39" font-size="4" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">June 25</tspan></text>
+      <g id="Group_78" data-name="Group 78" transform="translate(23.358 61.805)">
+        <g id="Group_74" data-name="Group 74">
+          <path id="Path_28" data-name="Path 28" d="M338.709,371.45H338.5a2.634,2.634,0,1,1,0-5.268h2.265v.616a.173.173,0,0,0,.087.151.17.17,0,0,0,.173,0l1.826-1.055a.174.174,0,0,0,0-.3l-1.826-1.054a.174.174,0,0,0-.26.151v.616H338.5a3.509,3.509,0,0,0,0,7.019h.208a.173.173,0,0,0,.173-.173v-.529A.173.173,0,0,0,338.709,371.45Z" transform="translate(-334.991 -364.516)" fill="#9fa1b3"/>
+          <path id="Path_29" data-name="Path 29" d="M343.111,365.051h-.529a.175.175,0,0,0-.174.174v.528a.175.175,0,0,0,.174.174h.529a2.634,2.634,0,0,1,0,5.268h-2.267v-.616a.171.171,0,0,0-.087-.151.165.165,0,0,0-.173,0l-1.825,1.054a.171.171,0,0,0-.087.151.173.173,0,0,0,.087.151l1.825,1.055a.18.18,0,0,0,.173,0,.174.174,0,0,0,.087-.151v-.618h2.267a3.509,3.509,0,0,0,0-7.019Z" transform="translate(-333.233 -364.261)" fill="#9fa1b3"/>
+        </g>
+        <g id="Group_75" data-name="Group 75" transform="translate(19.154 0.158)">
+          <path id="Path_30" data-name="Path 30" d="M355.8,370.219a.168.168,0,0,0-.174,0,.172.172,0,0,0-.086.151v.616h-.525a1.506,1.506,0,0,1-1.342-.817l-1.93-3.722a2.38,2.38,0,0,0-2.12-1.288h-1.5a.173.173,0,0,0-.173.174v.528a.173.173,0,0,0,.173.174h1.5a1.506,1.506,0,0,1,1.342.814l.816,1.574-.816,1.747a1.5,1.5,0,0,1-1.342.817h-1.5a.173.173,0,0,0-.173.173v.53a.173.173,0,0,0,.173.173h1.5a2.39,2.39,0,0,0,2.128-1.306l.538-1.153.607,1.17a2.38,2.38,0,0,0,2.119,1.289h.525v.616a.174.174,0,0,0,.086.151.186.186,0,0,0,.087.022.182.182,0,0,0,.087-.022l1.826-1.054a.177.177,0,0,0,.086-.152.174.174,0,0,0-.086-.151Z" transform="translate(-347.954 -364.368)" fill="#9fa1b3"/>
+          <path id="Path_31" data-name="Path 31" d="M351.538,368.138c.058.056.124-.034.155-.093l.488-.94a1.5,1.5,0,0,1,1.342-.816h.525v.616a.174.174,0,0,0,.086.151.17.17,0,0,0,.087.022.166.166,0,0,0,.087-.022L356.134,366a.175.175,0,0,0,0-.3l-1.826-1.053a.173.173,0,0,0-.26.151v.616h-.525a2.382,2.382,0,0,0-2.12,1.288l-.3.557a.18.18,0,0,0-.012.133C351.108,367.436,351.519,368.119,351.538,368.138Z" transform="translate(-346.458 -364.623)" fill="#9fa1b3"/>
+        </g>
+        <g id="Group_77" data-name="Group 77" transform="translate(36.986 0.702)">
+          <g id="Group_76" data-name="Group 76">
+            <path id="Path_32" data-name="Path 32" d="M365.665,372.534a.436.436,0,0,1-.225-.062l-2.326-1.405-2.44,1.41a.435.435,0,0,1-.653-.377v-6.674a.435.435,0,0,1,.436-.434h5.207a.434.434,0,0,1,.434.434V372.1a.435.435,0,0,1-.22.378A.442.442,0,0,1,365.665,372.534Zm-4.773-6.674v5.488l2.01-1.161a.434.434,0,0,1,.442,0l1.887,1.139v-5.47Z" transform="translate(-360.022 -364.991)" fill="#9fa1b3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_84" data-name="Group 84" transform="translate(358.145 197.512)">
+      <g id="Group_82" data-name="Group 82">
+        <g id="Group_81" data-name="Group 81">
+          <g id="Group_80" data-name="Group 80" clip-path="url(#clip-path-7)">
+            <rect id="Rectangle_69" data-name="Rectangle 69" width="31.54" height="101.224" rx="5.778" transform="translate(101.224 0) rotate(90)" fill="url(#linear-gradient-19)"/>
+            <rect id="Rectangle_70" data-name="Rectangle 70" width="31.54" height="101.224" rx="5.778" transform="translate(101.224 0) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="26.662" height="22.601" rx="2.119" transform="translate(70.163 4.47)" fill="url(#linear-gradient-20)"/>
+      <g id="Group_83" data-name="Group 83" transform="translate(79.8 12.199)">
+        <line id="Line_3" data-name="Line 3" x1="6.776" transform="translate(0 3.388)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.992"/>
+        <line id="Line_4" data-name="Line 4" y2="6.776" transform="translate(3.388)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.992"/>
+      </g>
+      <text id="Lorem_Ipsum-4" data-name="Lorem Ipsum" transform="translate(10.826 18.064)" fill="#2b2e39" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+    </g>
+    <g id="Group_89" data-name="Group 89" transform="translate(358.145 238.248)">
+      <g id="Group_87" data-name="Group 87">
+        <g id="Group_86" data-name="Group 86">
+          <g id="Group_85" data-name="Group 85" clip-path="url(#clip-path-7)">
+            <rect id="Rectangle_73" data-name="Rectangle 73" width="31.54" height="101.224" rx="5.778" transform="translate(101.224 0) rotate(90)" fill="url(#linear-gradient-21)"/>
+            <rect id="Rectangle_74" data-name="Rectangle 74" width="31.54" height="101.224" rx="5.778" transform="translate(101.224 0) rotate(90)" fill="none" stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="0.992" opacity="0.54" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_76" data-name="Rectangle 76" width="26.662" height="22.601" rx="2.119" transform="translate(70.163 4.47)" fill="url(#linear-gradient-22)"/>
+      <g id="Group_88" data-name="Group 88" transform="translate(79.8 15.587)">
+        <line id="Line_5" data-name="Line 5" x1="6.776" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.992"/>
+      </g>
+      <text id="Lorem_Ipsum-5" data-name="Lorem Ipsum" transform="translate(10.826 18.064)" fill="#2b2e39" font-size="5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Lorem Ipsum</tspan></text>
+    </g>
+  </g>
+</svg>

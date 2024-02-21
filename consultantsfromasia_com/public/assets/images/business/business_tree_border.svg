@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="797.45" height="146.489" viewBox="0 0 797.45 146.489">
+  <g id="business_tree_border" transform="translate(-321 -4760.132)">
+    <path id="Path_10219" data-name="Path 10219" d="M0,0,.5,140.579v3.774" transform="translate(719.5 4760.714)" fill="none" stroke="#db1826" stroke-width="1" stroke-dasharray="2 2"/>
+    <g id="Group_40885" data-name="Group 40885">
+      <g id="Group_1" data-name="Group 1" transform="translate(324.022 4804.252)">
+        <path id="Path_1" data-name="Path 1" d="M390.224,268H92.6c-6.407,0-11.6,8.912-11.6,19.9v82.464" transform="translate(-81 -268)" fill="none" stroke="#db1826" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" d="M516.333,312.015c7.7,0,13.938-3.832,13.938-8.558V268" transform="translate(119.18 4492.236)" fill="none" stroke="#db1826" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+      <circle id="Ellipse_336" data-name="Ellipse 336" cx="3" cy="3" r="3" transform="translate(321 4900.517)" fill="#db1826"/>
+    </g>
+    <g id="Group_40887" data-name="Group 40887" transform="translate(790 4760.132)">
+      <g id="Group_1-2" data-name="Group 1" transform="translate(16.204 44.016)">
+        <path id="Path_1-2" data-name="Path 1" d="M81,268H378.622c6.407,0,11.6,8.912,11.6,19.9v82.464" transform="translate(-81 -268)" fill="none" stroke="#db1826" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+      </g>
+      <path id="Path_2-2" data-name="Path 2" d="M530.271,312.015c-7.7,0-13.938-3.832-13.938-8.558V268" transform="translate(-516.333 -268)" fill="none" stroke="#db1826" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+      <circle id="Ellipse_336-2" data-name="Ellipse 336" cx="3" cy="3" r="3" transform="translate(322.45 140.28)" fill="#db1826"/>
+    </g>
+    <circle id="Ellipse_337" data-name="Ellipse 337" cx="3" cy="3" r="3" transform="translate(717 4900.517)" fill="#db1826"/>
+  </g>
+</svg>

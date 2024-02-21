@@ -1,0 +1,123 @@
+ <div class='cursor' id="cursor"></div>
+ <div class='cursor2' id="cursor2"></div>
+ <div class='cursor3' id="cursor3"></div>
+
+
+.cursor2.hover,
+.cursor3.hover {
+	height: 75px;
+	width: 75px;
+	border: none;
+	border-radius: 50%;
+}
+
+.cursor2.hover:before,
+.cursor3.hover:before {
+	opacity: 1;
+	visibility: visible;
+}
+
+.cursor2,
+.cursor3 {
+	height: 15px;
+	width: 15px;
+	transition: all 200ms ease-out;
+	/*background-position: center;  background-size: 0 0;*/
+	background-color: var(--red_color);
+}
+
+.cursor2:before,
+.cursor3:before {
+	position: absolute;
+	content: "View";
+	z-index: 115;
+	left: 20px;
+	right: 0px;
+	margin: 0 auto;
+	top: 69%;
+	transform: translateY(-50%);
+	height: 50px;
+	width: 100%;
+	color: #fff;
+	font-weight: 600;
+	opacity: 0;
+	visibility: hidden;
+}
+
+.cursor,
+.cursor2,
+.cursor3 {
+	position: fixed;
+	border-radius: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	pointer-events: none;
+	left: -100px;
+	top: 50%;
+	z-index: 112;
+}
+
+.cursor2:before,
+.cursor3:before {
+	position: absolute;
+	content: "View";
+	z-index: 115;
+	left: 20px;
+	right: 0px;
+	margin: 0 auto;
+	top: 67%;
+	transform: translateY(-50%);
+	height: 50px;
+	font-weight:600;`
+}
+
+.cursor {
+	background-color: var(--red_color);
+	height: 0;
+	width: 0;
+}
+
+js
+document.getElementsByTagName("body")[0].addEventListener("mousemove", function(n) {
+    t.style.left = n.clientX + "px", t.style.top = n.clientY + "px", e.style.left = n.clientX + "px", e.style.top = n.clientY + "px", i.style.left = n.clientX + "px", i.style.top = n.clientY + "px"
+});
+var t = document.getElementById("cursor"),
+    e = document.getElementById("cursor2"),
+    i = document.getElementById("cursor3");
+
+function n(t) {
+    e.classList.add("hover", "hover-2", "tar_hover"), i.classList.add("hover", "hover-2", "tar_hover")
+}
+
+function s(t) {
+    e.classList.remove("hover", "hover-2", "tar_hover"), i.classList.remove("hover", "hover-2", "tar_hover")
+}
+s();
+for (var r = document.querySelectorAll("a, .hover-target-2"), a = r.length - 1; a >= 0; a--) {
+    o(r[a])
+}
+
+function o(t) {
+    t.addEventListener("mouseover", n), t.addEventListener("mouseout", s)
+}
+document.getElementsByTagName("body")[0].addEventListener("mousemove", function(n) {
+    t.style.left = n.clientX + "px", t.style.top = n.clientY + "px", e.style.left = n.clientX + "px", e.style.top = n.clientY + "px", i.style.left = n.clientX + "px", i.style.top = n.clientY + "px"
+});
+var t = document.getElementById("cursor"),
+    e = document.getElementById("cursor2"),
+    i = document.getElementById("cursor3");
+
+function n(t) {
+    e.classList.add("hover", "hover-2", "tar_hover"), i.classList.add("hover", "hover-2", "tar_hover")
+}
+
+function s(t) {
+    e.classList.remove("hover", "hover-2", "tar_hover"), i.classList.remove("hover", "hover-2", "tar_hover")
+}
+s();
+for (var r = document.querySelectorAll("a, .hover-target-2"), a = r.length - 1; a >= 0; a--) {
+    o(r[a])
+}
+
+function o(t) {
+    t.addEventListener("mouseover", n), t.addEventListener("mouseout", s)
+}

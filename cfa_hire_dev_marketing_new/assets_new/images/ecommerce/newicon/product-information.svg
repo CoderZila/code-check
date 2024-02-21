@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="product-information" transform="translate(-294 -966)">
+    <path id="Vector" d="M22.384,35H12.616C3.777,35,0,31.223,0,22.384V12.616C0,3.777,3.777,0,12.616,0h9.767C31.223,0,35,3.777,35,12.616v9.767C35,31.223,31.223,35,22.384,35ZM12.616,2.442c-7.5,0-10.174,2.67-10.174,10.174v9.767c0,7.5,2.67,10.174,10.174,10.174h9.767c7.5,0,10.174-2.67,10.174-10.174V12.616c0-7.5-2.67-10.174-10.174-10.174Z" transform="translate(294 966)" fill="#dd1928"/>
+    <g id="vuesax_outline_message-text" data-name="vuesax/outline/message-text" transform="translate(302.949 974.949)">
+      <g id="message-text" transform="translate(0 0)">
+        <path id="Vector-2" data-name="Vector" d="M11.046,16.1H1.311A1.317,1.317,0,0,1,0,14.791V5.055C0,1.745,1.745,0,5.055,0h5.991C14.356,0,16.1,1.745,16.1,5.055v5.991C16.1,14.356,14.356,16.1,11.046,16.1ZM5.055,1.123c-2.681,0-3.932,1.251-3.932,3.932v9.736a.185.185,0,0,0,.187.187h9.736c2.681,0,3.932-1.251,3.932-3.932V5.055c0-2.681-1.251-3.932-3.932-3.932Z" transform="translate(0.936 0.936)" fill="#292d32"/>
+        <path id="Vector-3" data-name="Vector" d="M8.051,1.123H.562A.566.566,0,0,1,0,.562.566.566,0,0,1,.562,0H8.051a.566.566,0,0,1,.562.562A.566.566,0,0,1,8.051,1.123Z" transform="translate(4.681 6.553)" fill="#292d32"/>
+        <path id="Vector-4" data-name="Vector" d="M5.8,1.123H.562A.566.566,0,0,1,0,.562.566.566,0,0,1,.562,0H5.8a.566.566,0,0,1,.562.562A.566.566,0,0,1,5.8,1.123Z" transform="translate(4.681 10.297)" fill="#292d32"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H17.974V17.974H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

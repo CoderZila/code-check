@@ -1,0 +1,388 @@
+/* .side_banner_inner_sec {
+    position: relative;
+    margin-bottom: 100px;
+}
+.side_banner_inner_sec:after {
+    position: absolute;
+    bottom: -37px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    content: "";
+    background: #fff;
+    transform: skewY(2deg);
+} */
+/*====== common css ==========*/
+p, h5 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color:  var(--black_color);
+}
+h1, h2, h3, h4, h5 {
+    color:  var(--black_color);
+}
+:root {
+    --red_color: #d72131;
+    --black_color: #101a36;
+}
+.gray_bg {
+    background-color: #f6f6f6;
+}
+.port_sec_heading {
+    margin-bottom: 30px;
+}
+.port_sec_heading .sec_heading {
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.port_sec_heading .sec_heading:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 189px;
+    height: 2px;
+    background-color: var(--black_color);
+}
+.port_sec_heading.white_heading .sec_heading {
+   color: #ffffff;
+}
+.port_sec_heading.white_heading .sec_heading:after {
+    background-color: #ffffff;
+}
+.cl_red_circle {
+    background: #96262C;
+}
+.cl_black_circle {
+    background: #353535;
+}
+.cl_gray_circle {
+    background: #00000014;
+}
+.lg_gray_circle {
+    background: #353535;
+}
+.lg_red_circle {
+    background: #E83E8C;
+}
+/*====== common css ==========*/
+/*====== Typography section css ==========*/
+.cfa_mrk_typog_section_wrap {
+    margin-top: 60px;
+}
+.typo_ingredient_dv {
+    margin-bottom: 60px;
+}
+.typo_ingredient_head {
+    display: inline-block;
+    border-radius: 40px;
+    background: #FFF;
+    box-shadow: 5px 10px 20px 0px rgba(16, 26, 54, 0.15);
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    padding: 15px 51px;
+    color: #101a36;
+}
+.orange_circle {
+    background-color: #FD7A03;
+}
+.black_circle1 {
+    background-color: #2B2B2B;
+}
+.black_circle2 {
+    background-color: #1E1B1A;
+}
+.gray_circle {
+    background-color: #F6F6F6;
+}
+.typography_sec_bg {
+    padding: 35px 0;
+    border-radius: 150px 150px 0 0;
+}
+.typography_sec_bg * {
+    color: #fff;
+}
+.typography_sechead {
+    margin-bottom: 30px;
+}
+.typography_sechead .typography_sectitle {
+    font-size: 48px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.typography_leftdv .font_txt {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.typography_leftdv .font_family_txt {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.typography_leftdv .font_letter_icon h2 {
+    font-size: 145px;
+    font-weight: 700;
+    color: #F6F6F6;
+}
+.typo_color_pallates_head {
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.typo_color_circle_box {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.typo_color_circles {
+    position: relative;
+    background: #fff;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    box-shadow: 5px 10px 20px rgba(255, 255, 255, 0.15);
+    -webkit-box-shadow: 5px 10px 20px rgba(255, 255, 255, 0.15);
+    -moz-box-shadow: 5px 10px 20px rgba(255, 255, 255, 0.15);
+}
+.typo_color_circles .smallcircle {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    box-shadow:5px 10px 20px rgba(246, 246, 246, 0.15);
+    -webkit-box-shadow:5px 10px 20px rgba(246, 246, 246, 0.15);
+    -moz-box-shadow:5px 10px 20px rgba(246, 246, 246, 0.15);
+}
+.typo_color_circle_box .typo_color_codes {
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.typo_specificationdv {
+    max-width: 333px;
+    margin-left: auto;
+    text-align: right;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+.typo_specificationdv .specfc_title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.typo_specification_lst {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.typo_specification_lst > li {
+    border-bottom: 1px solid #ffffff40;
+    margin: 15px 0;
+    padding-left: 50px;
+}
+.typo_specification_lst > li .spec_title {
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+.typo_specification_lst > li p {
+    font-size: 16px;
+    letter-spacing: 0.15em;
+    margin-bottom: 15px;
+}
+/*====== Typography section css ==========*/
+/*====== Project section css ==========*/
+.porf_dtl_feature_section {
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.porf_dtl_feature_section .port_sec_heading .sec_heading {
+    margin-bottom: 30px;
+}
+.port_features_lists {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.port_features_lists > li {
+    margin: 16px 0;
+    border-bottom: 1px solid rgb(16 26 54 / 10%);
+}
+.port_features_itemss .checkicons, .port_features_itemss .arrowicon {
+    flex: 0 0 auto;
+    width: 30px;
+    margin: 0 20px;
+}
+.port_features_itemss .checkicons svg, .port_features_itemss .arrowicon svg {
+    width: 30px;
+    height: 30px;
+}
+.port_features_itemss .contentsbox {
+    width: calc(100% - 30px);
+    width: -webkit-calc(100% - 30px);
+    width: -moz-calc(100% - 30px);
+}
+.port_features_itemss .contentsbox h5 {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.portfolio_dtl_thumbnail_section .secondthumb {
+    text-align: left;
+}
+.portfolio_dtl_thumbnail_section .firsthumb {
+    text-align: right;
+    padding-top: 70px;
+}
+/*====== Project section css ==========*/
+/*====== portfolio challanges section css ==========*/
+.portfolio_tech_challange_section {
+    padding: 50px 0 40px;
+}
+.challanges_colm {
+    margin-bottom: 30px;
+}
+.portfolio_challange_texts {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 5px 10px 20px 0px rgba(16, 26, 54, 0.15);
+    padding: 30px 16px 16px;
+    min-height: 100%;
+}
+.portfolio_challange_texts .titless {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.portfolio_challange_texts .listings {
+    padding: 0px 0px 0px 20px;
+    margin: 0;
+    list-style: none;
+}
+.portfolio_challange_texts .listings > li {
+   
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    list-style: decimal;
+}
+/* .portfolio_challange_texts .listings > li:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid var(--red_color);
+} */
+/*====== portfolio challanges section css ==========*/
+/*====== portfolio Achievements section css ==========*/
+.porf_achievements_section.gray_bg {
+    padding: 40px 0px 150px;
+}
+.porf_achievements_card {
+    padding: 30px 30px 10px;
+    background-color: var(--black_color);
+    border-radius: 20px;
+}
+.porf_achievements_card * {
+    color: #ffffff;
+}
+.porf_achievements_card .achievements_textbox {
+    margin-top: 30px;
+}
+/*====== portfolio Achievements section css ==========*/
+/*====== fots css ==========*/
+.montserrat_font_bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.montserrat_font_medium {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.montserrat_font_regular {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+/*====== fots css ==========*/
+@media screen and (max-width:1400px) {
+    .typo_color_circles {
+        width: 180px;
+        height: 180px;
+    }
+    .typo_color_circles .smallcircle {
+        width: 85px;
+        height: 85px;
+    }
+    .typo_color_circle_box .typo_color_codes {
+        font-size: 24px;
+        line-height: 26px;
+        margin-top: 18px;
+        font-weight: 700;
+    }
+}
+@media screen and (max-width:991px) {
+    .porf_achievements_card .rightcolm .row {
+        flex-direction: column-reverse;
+    }
+}
+@media screen and (max-width:767px) {
+    .typo_color_circle_box .typo_color_codes {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .typo_color_circles {
+        width: 110px;
+        height: 110px;
+    }
+    .typo_color_circles .smallcircle {
+        width: 50px;
+        height: 50px;
+    }
+    .typography_sec_bg {
+        border-radius: 50px 50px 0 0;
+    }
+    .typography_leftdv .font_letter_icon h2 {
+        font-size: 200px;
+    }
+    .typography_leftdv .font_family_txt {
+        font-size: 30px;
+    }
+    .typography_leftdv .font_txt, .typo_specificationdv .specfc_title {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .typography_sechead .typography_sectitle, .typo_color_pallates_head {
+        font-size: 36px;
+    }
+    .typo_specification_lst > li {
+        border-bottom: 1px solid #ffffff40;
+        margin: 20px 0;
+        padding-left: 0px;
+    }
+    .typo_specification_lst > li .spec_title {
+        font-size: 30px;
+        margin-bottom: 14px;
+    }
+    .typo_specification_lst > li p {
+        font-size: 14px;
+        letter-spacing: 0.1em;
+        margin-bottom: 20px;
+    }
+}

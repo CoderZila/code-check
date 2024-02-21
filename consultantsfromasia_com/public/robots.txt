@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: https://consultantsfromasia.com/blog/introducing-threads/
+
+Disallow: https://consultantsfromasia.com/blog/top-10-angularjs-development-tools-for-2023-24/
+Allow: /
+
+https://consultantsfromasia.com/sitemap.xml

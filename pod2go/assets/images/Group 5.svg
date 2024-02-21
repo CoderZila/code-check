@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="632.02" height="228" viewBox="0 0 632.02 228">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e8387"/>
+      <stop offset="1" stop-color="#1d4c4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eca6fd"/>
+      <stop offset="1" stop-color="#d56dfb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebf0f1"/>
+      <stop offset="1" stop-color="#d3dcde"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#28b67e"/>
+      <stop offset="1" stop-color="#51dcb5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-192.527 -512.937)">
+    <g id="Fill_5" data-name="Fill 5" transform="translate(12627.5 4437)">
+      <path id="Fill_5-2" data-name="Fill 5" d="M0,631.465H8.447V0H0Z" transform="translate(-11802.953 -3704.51) rotate(90)" fill="url(#linear-gradient)"/>
+      <path id="Fill_5-3" data-name="Fill 5" d="M0,631.465H8.447V0H0Z" transform="translate(-11802.953 -3704.51) rotate(90)" fill="none"/>
+    </g>
+    <g id="Fill_230" data-name="Fill 230" transform="translate(12627.5 4437)">
+      <path id="Fill_230-2" data-name="Fill 230" d="M0,206.768H55.35V0H0Z" transform="translate(-12301.133 -3913.955)" fill="#dd6e5f"/>
+      <path id="Fill_230-3" data-name="Fill 230" d="M0,206.768H55.35V0H0Z" transform="translate(-12301.133 -3913.955)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Fill_231" data-name="Fill 231" d="M36.464,183.449H.907a1.7,1.7,0,0,1-1.722-1.682V2.131A1.7,1.7,0,0,1,.907.449H36.464a1.7,1.7,0,0,1,1.721,1.682V181.767A1.7,1.7,0,0,1,36.464,183.449ZM3.185,3.449v177h33v-177Z" transform="translate(334.814 534.551)" fill="#d771fb"/>
+    <g id="Fill_232" data-name="Fill 232" transform="translate(12627.5 4437)">
+      <path id="Fill_232-2" data-name="Fill 232" d="M0,216.865H21.23V0H0Z" transform="translate(-12245.83 -3923.834)" fill="#fdf5ed"/>
+      <path id="Fill_232-3" data-name="Fill 232" d="M0,216.865H21.23V0H0Z" transform="translate(-12245.83 -3923.834)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g id="Fill_254" data-name="Fill 254" transform="translate(12627.5 4437)">
+      <path id="Fill_254-2" data-name="Fill 254" d="M0,206.768H41.516V0H0Z" transform="translate(-12434.973 -3913.736)" fill="none"/>
+      <path id="Fill_254-3" data-name="Fill 254" d="M0,206.768H41.516V0H0Z" transform="translate(-12434.973 -3913.736)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <g id="Fill_255" data-name="Fill 255" transform="translate(12627.5 4437)">
+      <path id="Fill_255-2" data-name="Fill 255" d="M0,161H89.566V0H0Z" transform="translate(-12392.729 -3868.552)" fill="none"/>
+      <path id="Fill_255-3" data-name="Fill 255" d="M0,161H89.566V0H0Z" transform="translate(-12392.729 -3868.552)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Fill_256" data-name="Fill 256" transform="translate(12627.5 4437)">
+      <path id="Fill_256-2" data-name="Fill 256" d="M0,162.755l52.041,16.6L100.023,16.6,47.994,0,0,162.755" transform="translate(-11979.18 -3886.642)" fill="none"/>
+      <path id="Fill_256-3" data-name="Fill 256" d="M0,162.755l52.041,16.6L100.023,16.6,47.994,0,0,162.755" transform="translate(-11979.18 -3886.642)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Fill_257" data-name="Fill 257" d="M0,138.861,28.961,148.1,69.9,9.244,40.942,0,0,138.861" transform="translate(663.387 565.986)" fill="#d771fb"/>
+    <g id="Fill_259" data-name="Fill 259" transform="translate(12627.5 4437)">
+      <path id="Fill_259-2" data-name="Fill 259" d="M0,189.376H54.431V0H0Z" transform="translate(-11857.978 -3896.573)" fill="none"/>
+      <path id="Fill_259-3" data-name="Fill 259" d="M0,189.376H54.431V0H0Z" transform="translate(-11857.978 -3896.573)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <path id="Fill_260" data-name="Fill 260" d="M32.014,160.406H.41a1.72,1.72,0,0,1-1.7-1.739V2.156A1.727,1.727,0,0,1,.41.406h31.6a1.727,1.727,0,0,1,1.7,1.751V158.667A1.721,1.721,0,0,1,32.014,160.406Zm-29.3-158v154h28v-154Z" transform="translate(779.288 554.594)" fill="#d3dcde"/>
+    <g id="Fill_261" data-name="Fill 261" transform="translate(12627.5 4437)">
+      <path id="Fill_261-2" data-name="Fill 261" d="M0,216.865H22.57V0H0Z" transform="translate(-11880.548 -3924.063)" fill="none"/>
+      <path id="Fill_261-3" data-name="Fill 261" d="M0,216.865H22.57V0H0Z" transform="translate(-11880.548 -3924.063)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <g id="Fill_298" data-name="Fill 298" transform="translate(12627.5 4437)">
+      <path id="Fill_298-2" data-name="Fill 298" d="M0,43.966H209.669V0H0Z" transform="translate(-12206.082 -3750.162)" fill="none"/>
+      <path id="Fill_298-3" data-name="Fill 298" d="M0,43.966H209.669V0H0Z" transform="translate(-12206.082 -3750.162)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <path id="Fill_299" data-name="Fill 299" d="M0,19.548H220.508V0H0Z" transform="translate(410.579 604.875)" fill="#ffb12a"/>
+    <g id="Fill_300" data-name="Fill 300" transform="translate(12627.5 4437)">
+      <path id="Fill_300-2" data-name="Fill 300" d="M0,26.122H232.922V0H0Z" transform="translate(-12206.082 -3858.247)" fill="none"/>
+      <path id="Fill_300-3" data-name="Fill 300" d="M0,26.122H232.922V0H0Z" transform="translate(-12206.082 -3858.247)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="Fill_301" data-name="Fill 301" transform="translate(12627.5 4437)">
+      <path id="Fill_301-2" data-name="Fill 301" d="M0,19.548H213.508V0H0Z" transform="translate(-12209.921 -3769.71)" fill="none"/>
+      <path id="Fill_301-3" data-name="Fill 301" d="M0,19.548H213.508V0H0Z" transform="translate(-12209.921 -3769.71)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Fill_302" data-name="Fill 302" transform="translate(12627.5 4437)">
+      <path id="Fill_302-2" data-name="Fill 302" d="M0,42.866H200.779V0H0Z" transform="translate(-12173.939 -3812.577)" fill="none"/>
+      <path id="Fill_302-3" data-name="Fill 302" d="M0,42.866H200.779V0H0Z" transform="translate(-12173.939 -3812.577)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <path id="Fill_350" data-name="Fill 350" d="M189.392,3.918H1.7A1.847,1.847,0,0,1,0,1.959,1.839,1.839,0,0,1,1.7,0H189.392a1.839,1.839,0,0,1,1.7,1.959,1.847,1.847,0,0,1-1.7,1.959" transform="translate(431.767 675.112)" fill="#1d4c4f"/>
+    <path id="Fill_351" data-name="Fill 351" d="M1.618,25.088A1.686,1.686,0,0,1,0,23.339V1.762A1.689,1.689,0,0,1,1.618,0,1.689,1.689,0,0,1,3.236,1.762V23.339a1.686,1.686,0,0,1-1.618,1.75" transform="translate(640.227 641.77)" fill="#fdf5ed"/>
+    <path id="Fill_352" data-name="Fill 352" d="M1.618,25.088A1.693,1.693,0,0,1,0,23.339V1.762A1.7,1.7,0,0,1,1.618,0,1.689,1.689,0,0,1,3.236,1.762V23.339a1.686,1.686,0,0,1-1.618,1.75" transform="translate(627.295 641.77)" fill="#fdf5ed"/>
+    <path id="Fill_353" data-name="Fill 353" d="M1.618,25.088A1.693,1.693,0,0,1,0,23.339V1.762A1.7,1.7,0,0,1,1.618,0,1.689,1.689,0,0,1,3.236,1.762V23.339a1.686,1.686,0,0,1-1.618,1.75" transform="translate(614.363 641.77)" fill="#fdf5ed"/>
+    <path id="Fill_354" data-name="Fill 354" d="M1.692,27.893A1.833,1.833,0,0,1,0,25.948V1.959A1.838,1.838,0,0,1,1.692,0,1.839,1.839,0,0,1,3.4,1.959V25.948a1.834,1.834,0,0,1-1.7,1.945" transform="translate(490.568 631.816)" fill="#fdf5ed"/>
+    <path id="Fill_355" data-name="Fill 355" d="M1.7,27.893A1.834,1.834,0,0,1,0,25.948V1.959A1.839,1.839,0,0,1,1.7,0a1.846,1.846,0,0,1,1.7,1.959V25.948a1.842,1.842,0,0,1-1.7,1.945" transform="translate(476.953 631.816)" fill="#fdf5ed"/>
+    <path id="Fill_356" data-name="Fill 356" d="M1.8,27.893A1.873,1.873,0,0,1,0,25.948V1.959A1.877,1.877,0,0,1,1.8,0a1.885,1.885,0,0,1,1.8,1.959V25.948a1.881,1.881,0,0,1-1.8,1.945" transform="translate(466.211 631.816)" fill="#fdf5ed"/>
+    <path id="Fill_357" data-name="Fill 357" d="M62.305,24.071H-.394A1.684,1.684,0,0,1-2.045,22.36V1.783A1.684,1.684,0,0,1-.394.071h62.7a1.684,1.684,0,0,1,1.651,1.712V22.36A1.684,1.684,0,0,1,62.305,24.071Zm-60.349-21v18h58v-18Z" transform="translate(248.045 582.928)" fill="#206c5d"/>
+    <path id="Fill_358" data-name="Fill 358" d="M62.305,24.257H-.394a1.684,1.684,0,0,1-1.651-1.712V1.969A1.684,1.684,0,0,1-.394.257h62.7a1.684,1.684,0,0,1,1.651,1.712V22.545A1.684,1.684,0,0,1,62.305,24.257Zm-60.349-21v18h58v-18Z" transform="translate(248.045 692.743)" fill="#1d4c4f"/>
+  </g>
+</svg>

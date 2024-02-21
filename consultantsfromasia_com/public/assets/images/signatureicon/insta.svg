@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="insta" transform="translate(-120 -167)">
+    <g id="insta-2" data-name="insta" transform="translate(-326 -302)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="12.5" cy="12.5" r="12.5" transform="translate(446 469)" fill="#ef1d26"/>
+    </g>
+    <g id="vuesax_bold_instagram" data-name="vuesax/bold/instagram" transform="translate(-175 -272)">
+      <g id="instagram" transform="translate(300 444)">
+        <path id="Vector" d="M8.3,0H3.4A3.12,3.12,0,0,0,0,3.4V8.291a3.122,3.122,0,0,0,3.4,3.4H8.29a3.12,3.12,0,0,0,3.4-3.4V3.4A3.113,3.113,0,0,0,8.3,0ZM5.846,8.115A2.269,2.269,0,1,1,8.115,5.847,2.271,2.271,0,0,1,5.846,8.115ZM9.307,2.853a.675.675,0,0,1-.123.193.675.675,0,0,1-.193.123.579.579,0,0,1-.637-.123.675.675,0,0,1-.123-.193.551.551,0,0,1,0-.444.6.6,0,0,1,.123-.193.584.584,0,0,1,.526-.158.353.353,0,0,1,.111.035.443.443,0,0,1,.105.053.921.921,0,0,1,.088.07.6.6,0,0,1,.123.193.551.551,0,0,1,0,.444Z" transform="translate(1.333 1.333)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H14.36V14.36H0Z" transform="translate(14.36 14.36) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

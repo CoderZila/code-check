@@ -1,0 +1,1019 @@
+
+@media only screen and (min-width: 1900px) {
+    .ryt-data-sec {
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 1366px) {
+.fullpage_slider_wr .owl-nav button.owl-next {
+    right: 46%;
+}
+}
+@media only screen and (max-width: 1299px) {
+    .typography_sec_bg {
+        padding: 35px 35px !important;
+        border-radius: 100px 100px 0 0 !important;
+    }
+}
+@media only screen and (max-width: 1199px) {
+    .header-ryt-inner-sec {
+        position: fixed;
+        bottom: 0;
+        background: #fff;
+        z-index: 9;
+        flex: 0 0 100%;
+        width: 100%;
+        left: 0;
+        justify-content: center!important;
+        box-shadow: 0px 22px 22px 0px #101A3617;
+        padding: 10px 0px;
+    }
+    .digital_counter_box span.counter_number, .digital_counter_box .achievment_plus_icon {
+        color: #fff !important;
+        font-size: 35px;
+    }
+    .digital_counter_box p {
+        font-size: 17px;
+    }
+    .port_ryt_data_sec {
+        top: -45px;
+    }
+    .side_banner_inner_sec:before {
+        height: 65px;
+    }
+    .side_banner_inner_sec {
+        padding: 0px 0px 50px;
+        margin-bottom: 0px;
+    }
+    /* .techno_box:nth-child(3) {
+        margin-right: 35px;
+    } */
+    .techno_box:nth-child(4) {
+        margin-right: 12px;
+    }
+    .cfa_mrk_footer {
+        margin-bottom: 67px;
+        text-align: center;
+    }
+    .emp-no-sec.header_mar_ryt_box {
+        border-right: unset;
+    }
+    /* sidepage start */
+    .side_banner_heading {
+        color: #fff;
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .side_counter_title {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .side_counter_heading {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .side_port_tab_item ,.grid_port_tab_item {
+        width: 300px;
+    }
+    span.side_icns svg {
+        width: 35px;
+    }
+    .por_data_heading {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .por_dat_tec{
+        width: auto;
+        padding: 10px 15px;
+    }
+    .side_get_started_inner_sec .get_star_heading {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .por_dat_tec{
+        margin-right: 10px;
+    }
+    .por_da_tec_title {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 5px 10px 5px 0px;
+    }
+    .grid_web_portfolio_img {
+        padding: 8px 20px 0px 26px;
+        height: 145px;
+    }
+    .slider-nav .slick-slide, .slider-nav1 .slick-slide {
+        height: 167px;
+    }
+    .grid-slider-sections .slick-prev, .slick-next {
+        width: 50px;
+        height: 50px;
+    }
+    .grid-slider-sections .slick-prev:before, .grid-slider-sections .slick-next:before{
+        background-size: 30px;
+    }
+    /* sidepage end */
+    /* .project_concern_wr {
+        margin-top: -170px;
+        position: relative;
+    } */
+    .project_main_para {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 30px 0px;
+    }
+    .tec_leav_con_heading {
+        font-size: 35px;
+        line-height: 40px;
+    }    
+    /* .fullpage_slider_wr {
+        margin: 0px 0px 75px 0px;
+    } */
+    .fullpage_slider_wr .owl-nav button{
+        left: 45%;
+    }
+    .fullpage_slider_wr .owl-nav button.owl-next {
+        right: 45%;
+    }
+    /* .fullpage_slider_img_sec img{
+       height: 100%;
+       object-fit: cover;
+    } */
+    /* .fullpage_slider_img_sec{
+        height: calc(100vh - 215px)
+    } */
+    .fullpage_slider_sec {
+        height: calc(100vh - 215px);
+        height: -webkit-calc(100vh - 215px);
+        height: -moz-calc(100vh - 215px);
+    }
+    /* .fullpage_slider_img_sec img {
+        max-width: 100%;
+        width: auto !important;
+        height: auto;
+    } */
+    .presentation_footer{
+        position: fixed;
+        bottom: 68px;
+        left: 0;
+        right:0;
+        width: 100%;
+        margin-bottom: 0px;
+        z-index: 9;
+    }
+    .medicineed_section:nth-child(even) {
+        margin-bottom: 125px;
+    }
+    .typography_sec_bg {
+        border-radius: 80px 80px 0 0 !important;
+    }
+  }
+  @media only screen and (max-width:991px){
+    .cfa_mr_comm_heading {
+        color: #101A36;
+        font-size: 22px;
+        line-height: 30px;
+    }
+   
+    .typo_specificationdv {
+        margin-left: 0 !important;
+        text-align: left !important;
+    }
+    .typo_specification_lst > li {
+        padding-left: 0 !important;
+    }
+    .porf_achievements_section.gray_bg {
+        padding: 50px 0px 60px !important;
+    }
+    .porf_achievements_card{
+        padding-bottom: 0px;
+    }
+    /* .slider-products {
+        margin-bottom: 100px;
+    } */
+    .project_conc_img {
+        margin-bottom: 30px;
+    }
+    .project_concern_det {
+        padding-right: 0px;
+    }
+    .medi_det_col {
+        margin-bottom: 20px;
+        text-align: center !important;
+        margin-top: 20px;
+    }
+    .medicineed_section .row {
+        flex-direction: column-reverse;
+    }
+    .medicineed_section:nth-child(even) .row {
+        flex-direction: column !important;
+    }
+    .medicineed_section:nth-child(even) .por_data_img_sec, .por_data_img_sec {
+        flex-direction: column;
+    }
+    .por_data_sec {
+        text-align: center !important;
+    }
+    .por_dat_btn_sec .por_dat_btn {
+        margin: 0 auto !important;
+    }
+    
+    .por_data_technology_sec {
+        justify-content: center !important;
+    }
+    .por_tech_img svg path {
+        fill: #081230;
+    }
+    .cfa_mark_main_sec:before{
+        display: none;
+    }
+    .side_banner_inner_sec {
+        /* margin-bottom: 45px; */
+        padding: 0px 0px 0px;
+    }
+    .know_more_btn.color-white {
+        color: #fff !important;
+    }
+    .color-white {
+        color: #101A36 !important;
+    }
+    .cfa_mar_main-right_sec {
+        padding: 30px 0px 0px 0px;
+    }
+    .cfa_mark_firmFolio_logos_sec {
+        box-shadow: 0px 3px 10px rgba(0 0 0/10%);
+    }
+    .inn_bey-title {
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .cfa_mar_counter_heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .cfa_mar_counter_title {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .side_banner_heading {
+        font-size: 43px;
+        line-height: 48px;
+    }
+    .banner_video_wr{
+        height: 400px;
+        margin-bottom: 0px;
+    }
+    .banner_video_wr img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .cfa-video-play-btn .play-icon {
+        width: 70px;
+        height: 70px;
+    }
+    .cfa-video-play-btn .play-icon img {
+        width: 25px;
+        object-fit: contain;
+    }
+    .side_counter_box {
+        padding: 25px 0px;
+    }
+    .ryt-data-sec {
+        top: -115px;
+        width: 100%;
+    }
+    /* .medi_even_col {
+        margin-top: 120px;
+    }    */
+    .medicineed_section:nth-child(even) .por_dat_tec {
+        border: 2px solid #081230;
+    }
+    .medicineed_section:nth-child(even) .por_tech_img img {
+        filter: unset;
+    }
+    .medicineed_section:nth-child(even) .por_dat_btn_sec .site_btn {
+        background-color: #081230;
+        color: #fff;
+    }
+    .medicineed_section:nth-child(even) {
+        margin-bottom: 40px;
+    }
+    .medicineed_section {
+        margin-bottom: 40px;
+    }
+    .side_get_started_inner_sec {
+        padding: 30px 50px 0px;
+    }
+    .side_get_started_inner_sec .get_star_heading {
+        font-size: 25px;
+        line-height: 39px;
+    }
+    .get_start_img {
+        margin-top: 0px;
+        width: 245px;
+    }
+    /* .side_get_started_section {
+        padding: 120px 0px 140px;
+    } */
+    .medicineed_section:nth-child(even) .row {
+        flex-direction: column-reverse;
+    }
+    .side_banner_para {
+        width: 100%;
+    }
+    .list-grid-sec {
+        right: 0px;
+        top: 0px;
+    }
+    .grid-slider-sections:before, .grid-slider-sections:after{
+        display: none;
+    }
+    .grid_web_portfolio_img {
+        padding: 18px 40px 0px 54px;
+        height: 293px;
+    }
+    .grid_web_port_mokcup {
+        width: 530px;
+    }
+    .slider-nav .slick-slide, .slider-nav1 .slick-slide {
+        height: 345px;
+        margin: 0px;
+    }
+    .grid-slider-sections .slick-next {
+        right: -20px;
+    }
+    .grid-slider-sections .slick-prev {
+        left: 0;
+    }
+    .ryt-data-sec {
+        display: none;
+    }
+    .banner_video_wr .grid_web_port_mokcup {
+        height: auto;
+        width: 100%;
+    }
+    .project_banner_img_sec{
+        height: 460px;
+    }
+    .banner_video_wr .grid_web_portfolio_img {
+        padding: 54px 0px 0px 0px;
+        height: 408px;
+    }
+    .project_concern_wr {
+        margin-top: 0px;
+        padding: 60px 0px 275px;
+    }
+    .side_banner_inner_sec.project_concern_banner {
+        padding-bottom: 40px;
+        margin-bottom: 0px;
+    }
+    .project_banner_con {
+        padding-top: 40px;
+    }
+    .project_concern_section {
+        flex-direction: column-reverse;
+    }
+    .portfolio_dtl_thumbnail_section .secondthumb {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .portfolio_dtl_thumbnail_section .firsthumb {
+        text-align: center;
+        padding-top: 70px;
+    }
+    .solution_blk {
+        padding-left: 0px;
+        margin-bottom: 40px;
+    }
+    .solution_img_sec_box{
+        justify-content: center;
+    }
+    .proj_banne_row{
+        flex-direction: column-reverse;
+    }
+    li.leverage_box {
+        padding: 5px;
+    }
+    .tec_leave_content_sec {
+        padding: 50px 15px 50px;
+    }
+    .tec_leav_con_heading {
+        font-size: 30px;
+        line-height: 37px;
+    }
+    .solution_section_wr {
+        margin-top: 50px;
+    }
+    .proj_dat_tec {
+        margin: 0px 10px 10px 0px;
+    }
+    .technology_leaveraged_section .container {
+        max-width: unset;
+    }
+    li.leverage_box {
+        width: 33.33%;
+    }
+    .tec_leave_content_sec p{
+        width: 100%;
+    }
+    .port_featuresimgbox {
+        margin-top: 30px;
+    }
+    .porf_dtl_feature_section {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+    .typo_ingredient_head{
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
+    .side_get_started_section{
+        padding: 0px;
+    }
+    .digital_marketing_feat {
+        padding-bottom: 0px !important;
+    }
+    .fullpage_slider_wr .owl-nav button.owl-next {
+        right: 10px;
+    }
+    .fullpage_slider_wr .owl-nav button {
+        left: calc(100% - 100px);
+    }
+    .show_data_btn {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    .port_problem_section .bg_color_box,.port_solution_section .bg_color_box{
+        display: none;
+    }
+    .side_banner_height_sec {
+        height: 100%;
+    }
+    .side_tab_section {
+        margin-bottom: 30px;
+    }
+    .owl-item li.leverage_box {
+        width: auto;
+    }
+    .fullpage_slider_sec {
+        height: 100vh;
+    }
+    .presentation_header {
+        background: transparent;
+        box-shadow: unset;
+        position: absolute;
+        width: 100%;
+        z-index: 9;
+        top: 0;
+    }
+    /* .presentation_body{
+        transform: rotate(90deg);
+    } */
+    .presentation_booking_btn {
+        top: 59px !important;
+        transform: rotate(-90deg) !important;
+        position: fixed;
+        right: -40px;
+    }
+    .presentation_booking_btn .cfa_mar_common_btn{
+        font-size: 11px;
+    }
+    .presentation_footer{
+        display: none;
+    }
+    .presentation_certificate_sec {
+        display: none !important;
+    }
+    .presentation_header .container {
+        max-width: 100%;
+        /* padding: 0px 5px; */
+
+    }
+  }
+  @media only screen and (max-width:768px){
+    .cfa_mark_spotlight_logos .links h3 {
+        font-size: 20px;
+    }
+    /* .grid-slider-sections .slider-nav .slick-track, .grid-slider-sections .slider-nav1 .slick-track {
+        padding: 50px 0px 0px;
+    } */
+    .presentation_booking_btn {
+        right: -40px !important;
+    }
+    .digital_counter_box {
+        margin-top: 15px;
+    }
+    p.footer-para {
+        padding: 6px 0px 8px;
+    }
+    
+    .cfa_mar_btn {
+        position: fixed;
+        right: -75px;
+        top: 50%;
+        transform: rotate(-90deg) translateY(-50%);
+    }
+    
+    .por_da_tec_title {
+        display: none;
+    }
+    .typography_sec_bg {
+        padding: 35px 20px !important;
+        border-radius: 50px 50px 0 0 !important;
+    }
+    .por_data_sec {
+        display: flex;
+        flex-direction: column;
+    }
+    .por_data_technology_sec {
+        order: 1;
+    }
+    .por_data_para{
+        margin-bottom: 10px;
+    }
+    .por_dat_btn_sec {
+        order: 2;
+    }
+    .digital_counter_box span.counter_number, .digital_counter_box .achievment_plus_icon {
+        color: #fff !important;
+        font-size: 25px;
+    }
+    /* .fullpage_slider_img_sec{
+        height: 100%;
+    } */
+    .fullpage_slider_sec {
+        /* height: auto;
+        height:auto;
+        height: auto; */
+    }
+    .port_app_thumb_row .owl-nav.disabled, .port_app_thumb_row .owl-nav {
+        margin-top: 20px;
+    }
+    /* .fullpage_slider_wr .owl-nav {
+        bottom: -60px;
+    } */
+    .porf_achievements_card {
+        padding: 30px 15px 0px !important;
+    }
+    .achievements_img {
+        height: 210px;
+    }
+    .achievements_img img {
+        width: 100%;
+        height: 100%;
+    }
+    .achievements_counters {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .porf_achievements_card * br {
+        display: none;
+    }
+    .grid_web_port_mokcup .port_mobile_img img {
+        object-fit: contain;
+    }
+    .portf_ingredients_text .big_heading {
+        font-size: 30px !important;
+        line-height: 50px !important;
+    }    
+    /* .mobile_grid_slider_sec {
+        margin-bottom: 75px;
+    } */
+    .sections_heading_area .headings{
+        font-size: 30px !important;
+    }
+    .port_problem_section .portfolio_detail_img ,.portfolio_detail_img{
+        text-align: center !important;
+    }
+    .custom_list_style li,.portfolio_detail_text .sections_heading_area p {
+        font-size: 17px !important;
+        line-height: 25px !important;
+    }
+    .cfa_mark_clutch_sec {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .side_banner_inner_sec:before {
+        height: 43px;
+    }
+    .inn_bey-title {
+        text-align: center;
+    }
+    .inno_certificaion_sec {
+        margin-top: 30px;
+    }
+    .techno_box {
+        margin: 0px 15px 15px 0px;
+    }
+    .techno_box:nth-child(3){
+        margin-right: 0px;
+    }
+    .footer-para, .footer-link {
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .counter-border {
+        border-right: 0px;
+    }
+    .cfa_mar_counter_box {
+        padding: 15px 0px;
+    }
+    .emp_title {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .ryt-data-sec {
+        display: none;
+    }
+    .medicineed_section:nth-child(even),.medicineed_section {
+        margin-bottom: 30px;
+    }
+    .medi_even_col {
+        margin-top: 25px;
+    }
+    .side_get_started_inner_sec {
+        flex-direction: column;
+        padding: 30px 20px 0px;
+        border-radius: 20px;
+    }
+    .get_start_img {
+        margin-top: 20px;
+    }
+    .get_started_cont .site_btn {
+        margin: 0 auto;
+    }
+    .get_started_cont {
+        margin-top: 20px;
+    }
+    /* .side_get_started_section {
+        padding: 125px 0px 50px;
+    } */
+    .side_banner_counter_sec .mar_top_20, .side_banner_counter_sec .mar_top_40, .side_banner_counter_sec .mar_top_60 {
+        margin-top: 15px;
+    }
+    .side_port_tab_item, .grid_port_tab_item{
+        width: 200px;
+        flex: 0 0 100%;
+    }   
+    .grid_web_port_mokcup {
+        width: 350px;
+    }
+    .grid_web_portfolio_img {
+        padding: 10px 25px 0px 34px;
+        height: 196px;
+    }
+    .slider-nav .slick-slide, .slider-nav1 .slick-slide {
+        height: 230px;
+    }
+    .grid-slider-sections .slick-next {
+        right: -12px;
+    }
+    .side_portfolio_tab_content {
+        margin-top: 50px;
+    }
+    span.side_icns svg {
+        width: 26px;
+    }
+    .project_banner_img_sec {
+        height: auto;
+    }
+    .banner_video_wr .grid_web_portfolio_img {
+        padding: 40px 0px 0px 0px;
+        height: 300px;
+    }
+    .side_banner_para br {
+        display: none;
+    }    
+    .typo_ingredient_head ,.port_sec_heading .sec_heading{
+        font-size: 30px !important;
+        line-height: 35px !important;
+    }   
+    .project_con_heading {
+        margin-bottom: 35px;
+        font-size: 27px;
+        padding-right: 0px;
+    } 
+    .project_concern_det {
+        text-align: center;
+    }
+    .porf_dtl_feature_section:before {
+        display: none;
+    }
+    .tec_leav_con_heading {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .project_banner_con {
+        padding-top: 0px;
+    }
+    .fullpage_header_home .ful-home-data {
+        font-size: 27px;
+        line-height: 30px;
+    }
+    .port_app_thumb_row .owl-item.active.center .app_colms {
+        transform: translateY(0px);
+    }
+    .port_app_thumb_row .owl-stage {
+        padding: 0px 0px;
+    }
+  }
+  @media only screen and (max-width:530px){
+    .techno_box:nth-child(3),.techno_box {
+        margin-right: 0px;
+        width: 100%;
+    }
+    .por_tech_title {
+        display: none;
+    }
+    .proj_data_tech_sec  .por_tech_title{
+        display: block;
+    }
+    .proj_data_tech_sec .por_dat_tec {
+        border: 2px solid #d72131;
+        color: #fff;
+        width: auto;
+        min-width: 145px;
+        padding: 5px 15px;
+        margin-bottom: 15px;
+        justify-content: center;
+    }
+    .por_dat_tec {
+        border: unset;
+        min-height: unset;
+        padding: 0px;
+        border-radius: 25px;
+        min-width: unset;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .por_data_technology_sec {
+        margin: 15px 0px;
+    }
+    .medicineed_section:nth-child(even) .por_dat_tec {
+        border: unset;
+        margin-left:10px;
+    }
+    .techno_box .cfa_mar_common_box_btn {
+        width: 100%;
+        height: auto;
+        padding: 15px 5px;
+    }
+    .cfa_mark_clutch_sec img{
+        width:100px;
+    }
+    .cfa_mark_spotlight_logos {
+        flex: 0 0 100%;
+        margin-top: 20px;
+    }
+    .cfa_mark_spotlight_logos_sec{
+        flex-wrap: wrap;
+    }
+    /* .mobile_grid_slider_sec {
+        margin-bottom: 60px;
+    } */
+    /* .header-ryt-inner-sec{
+        overflow-x: scroll;
+        justify-content: start !important;
+    } */
+    .header-ryt-inner-sec {
+        justify-content: center !important;
+        flex-wrap: wrap;
+    }
+    .presentation_footer{
+        margin-bottom: 45px !important;
+    }
+    .qua-info-sec {
+        border-right: unset;
+    }
+    .cfa_mar_header-inner-sec{
+        padding: 12px 0px;
+    }
+    /* .fullpage_slider_sec {
+        height: calc(100vh - 232px);
+        height: -webkit-calc(100vh - 232px);
+        height: -moz-calc(100vh - 232px);
+    } */
+    .cfa_mrk_footer {
+        margin-bottom: 118px;
+    }
+    .header_mar_ryt_box {
+        flex: 0 0 33%;
+        justify-content: center;
+    }
+    .qua-manag-sec,.qua-info-sec  {
+        flex: 0 0 50%;
+    }
+    /* .header-ryt-inner-sec >*{
+        flex: 0 0 auto;
+        justify-content: center;
+    } */
+    .side_banner_heading {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .side_banner_para {
+        font-size: 15px;
+        line-height: 20px;
+        margin: 20px auto;
+    }
+    .side_banner_btn_sec .site_btn {
+        width: auto;
+        padding: 10px 20px;
+    }
+    .banner_video_wr {
+        height: 300px;
+    }
+    .por_dat_tec ,.por_da_tec_title{
+        margin-bottom: 10px;
+    }
+    span.side_icns svg {
+        width: 26px;
+    }
+    .side_port_tab_item.active .side_txts {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .side_port_tab_item.active {
+        padding: 7px 15px;
+    }
+    .side_portfolio_tabs {
+        justify-content: start;
+        width: 100%;
+        overflow: scroll;
+        white-space: nowrap;
+    }
+    .side_banner_btn_sec .know_more_btn {
+        margin-right: 10px !important;
+    }
+    .por_data_heading {
+        font-size: 27px;
+        line-height: 30px;
+    }
+    .grid-slider-sections .slick-prev {
+        left: 0;
+        top: 0px;
+    }
+    .grid-slider-sections .slick-next {
+        right: 0;
+        top: 0px;
+    }
+    .grid_web_port_mokcup {
+        max-width: 300px;
+        width: 300px;
+    }
+    .grid_web_portfolio_img {
+        padding: 10px 23px 0px 31px;
+        height: 166px;
+    }
+    .slider-nav .slick-slide, .slider-nav1 .slick-slide {
+        height: auto;
+    }
+    .banner_video_wr .grid_web_portfolio_img {
+        padding: 26px 0px 0px 0px;
+        height: 90%;
+    }
+    .project_banner_img_sec {
+        height: auto !important;
+    }
+    .typo_ingredient_head {
+        font-size: 25px !important;
+        line-height: 30px !important;
+        padding: 15px 25px !important;
+    }
+    li.leverage_box {
+        width: 50%;
+    }
+    .screenshot_slider .owl-item.center .item img {
+        -webkit-transform: translateY(-20px);
+        -ms-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+    /* .screenshot_slider .owl-nav {
+        display: none;
+    } */
+    .typography_leftdv .font_letter_icon h2 {
+        font-size: 100px !important;
+    }
+    .typo_specification_lst > li .spec_title {
+        font-size: 25px !important;
+        margin-bottom: 10px !important;
+    }
+    .grid_list_container {
+        top: -65px;
+    }
+    .typography_sechead .typography_sectitle, .typo_color_pallates_head {
+        font-size: 30px !important;
+    }
+    .typo_color_circles {
+        width: 100px !important;
+        height: 100px !important;
+    }
+    .typo_color_circles .smallcircle {
+        width: 65px !important;
+        height: 65px !important;
+    }
+    .list-data.active {
+        margin-top: 90px;
+    }
+    .port_app_thumb_row .owl-nav {
+        margin-top: 15px !important;
+    }
+    .fullpage_slider_wr .owl-nav button {
+        width: 35px;
+        height: 35px;
+    }    
+    
+  }
+ 
+  @media only screen and (max-width:480px){
+    .cfa_mar_header-inner-sec {
+        padding: 12px 0px;
+        justify-content: center !important;
+    }
+    .presentation_header_inner_sec{
+        justify-content: flex-start !important;
+    }
+    .cfa_mar_logo img {
+        max-width: 150px;
+    }
+    .cfa_mar_btn {
+        position: fixed;
+        right: -75px;
+        top: 50%;
+        transform: rotate(-90deg) translateY(-50%);
+        
+    }
+    .cfa_mar_btn .cfa_mar_common_btn{
+        font-size: 13px;
+        line-height: 15px;
+        padding: 10px 10px;
+        height: 35px;
+    }
+    .cfa_mar_logo {
+        align-self: flex-start;
+    }
+    .cfa_mar-header_ryt-sec {
+        align-self: flex-end;
+        margin-top: 10px;
+    }
+  }
+  @media only screen and (max-width:414px){
+    .cfa_mar_common_btn{
+        min-width: 120px
+    }
+    .ingredients_txt_row .clr_box {
+        width: 45px !important;
+        height: 45px !important;
+    }
+    .side_banner_btn_sec {
+        flex-direction: column;
+    }
+    .side_banner_btn_sec .watch_video_btn {
+        margin-top: 20px;
+    }
+    li.leverage_box {
+        width: 100%;
+    }
+    .footer-para, .footer-link {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .grid_web_port_mokcup {
+        width: 280px;
+    }   
+    .grid_web_portfolio_img {
+        padding: 8px 22px 0px 29px;
+        height: 154px;
+    }
+    .slider-nav .slide-box.slick-slide.slick-current.slick-active.slick-center,.slider-nav1 .slide-box.slick-slide.slick-current.slick-active.slick-center {
+        transform: scale(1);
+    }
+    .typo_ingredient_head {
+        font-size: 21px !important;
+        line-height: 27px !important;
+    }
+  }
+  @media only screen and (max-width:280px){
+  
+    .grid_web_port_mokcup {
+        width: 265px;
+    }
+    .grid_web_portfolio_img {
+        padding: 6px 21px 0px 29px;
+        height: 147px;
+    }
+  
+}
+/* @media screen and  (max-width: 768px) and (orientation:landscape) {
+    body {
+      background-color: red;
+    }
+  }
+  @media screen and  (max-width: 480px) and (orientation:landscape) {
+    body {
+      background-color: red;
+    }
+  } */

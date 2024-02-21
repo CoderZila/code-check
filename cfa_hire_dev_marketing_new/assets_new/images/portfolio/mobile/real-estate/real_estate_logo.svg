@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="387.575" height="189.369" viewBox="0 0 387.575 189.369">
+  <g id="Group_33" data-name="Group 33" transform="translate(12.075 -246.631)">
+    <g id="Group_32" data-name="Group 32">
+      <text id="Real_Estate" data-name="Real
+Estate" transform="translate(188 357)" fill="#8957fc" font-size="87" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-104.99" y="0">REAL</tspan><tspan font-size="61"><tspan x="-102.491" y="56">ESTATE</tspan></tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="182.075" transform="translate(-11.575 279.5)" fill="none" stroke="#8957fc" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="211" transform="translate(164 435.5)" fill="none" stroke="#8957fc" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_25" data-name="Path 25" d="M364.721,332.659H351.01c-.068-1.284-.181-2.477-.181-3.674-.02-8.274-.082-16.553.028-24.827a5.146,5.146,0,0,0-2.528-5.008q-31.607-20.923-63.064-42.072a3.4,3.4,0,0,0-4.5-.011c-6.908,4.75-13.914,9.357-20.907,13.988a5.816,5.816,0,0,1-2.679,1.292c-7.993.1-15.986.06-24.807.06,1.329-1.049,1.956-1.618,2.656-2.086q22.891-15.306,45.777-30.612c1.46-.981,2.483-1.318,4.164-.19q44.889,30.106,89.872,60.074a15.259,15.259,0,0,1,1.227,1.117H364.721Z" transform="translate(-48.374 7.82)" fill="#8957fc"/>
+    </g>
+  </g>
+</svg>

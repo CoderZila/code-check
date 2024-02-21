@@ -1,0 +1,29 @@
+<svg id="STOP" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <filter id="Combined_Shape" x="0" y="0" width="54" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Combined_Shape-2" x="0" y="0" width="54" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Combined_Shape-3" data-name="Combined Shape" transform="translate(0 0)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Combined_Shape)">
+      <path id="Combined_Shape-4" data-name="Combined Shape" d="M27,54A27.007,27.007,0,0,1,16.49,2.122,27.007,27.007,0,0,1,37.51,51.878,26.832,26.832,0,0,1,27,54Zm3-42V43h7V12ZM16,12V43h7V12Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Combined_Shape-2)">
+      <path id="Combined_Shape-5" data-name="Combined Shape" d="M27,54A27.007,27.007,0,0,1,16.49,2.122,27.007,27.007,0,0,1,37.51,51.878,26.832,26.832,0,0,1,27,54Zm3-42V43h7V12ZM16,12V43h7V12Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <path id="Combined_Shape-6" data-name="Combined Shape" d="M27,54A27.007,27.007,0,0,1,16.49,2.122,27.007,27.007,0,0,1,37.51,51.878,26.832,26.832,0,0,1,27,54Zm3-42V43h7V12ZM16,12V43h7V12Z" fill="#f7f7f7"/>
+  </g>
+</svg>

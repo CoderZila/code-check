@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 29.999 29.996">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f1f1" stop-opacity="0.831"/>
+      <stop offset="0.143" stop-color="#eae8e8" stop-opacity="0.361"/>
+      <stop offset="1" stop-color="#e8e8e8" stop-opacity="0.831"/>
+    </radialGradient>
+  </defs>
+  <g id="web-app-development" transform="translate(-390 -360)">
+    <path id="Ellipse_1" data-name="Ellipse 1" d="M13.457,0A13.46,13.46,0,1,1,0,13.459,13.457,13.457,0,0,1,13.457,0Z" transform="translate(390.002 386.714) rotate(-83)" fill="url(#radial-gradient)"/>
+    <g id="vuesax_outline_code" data-name="vuesax/outline/code" transform="translate(397.44 367.438)">
+      <g id="code" transform="translate(0 0)">
+        <path id="Vector" d="M2.195,4.752a.66.66,0,0,1-.285-.069,4.335,4.335,0,0,1-1.65-1.46,1.527,1.527,0,0,1,0-1.7A4.243,4.243,0,0,1,1.909.069a.651.651,0,0,1,.873.294.644.644,0,0,1-.294.873,2.974,2.974,0,0,0-1.149,1.02.25.25,0,0,0,0,.268,2.974,2.974,0,0,0,1.149,1.02.659.659,0,0,1,.294.873A.693.693,0,0,1,2.195,4.752Z" transform="translate(3.85 6.911)" fill="#2a2a2a"/>
+        <path id="Vector-2" data-name="Vector" d="M.65,4.766A.646.646,0,0,1,.365,3.539a2.974,2.974,0,0,0,1.149-1.02.25.25,0,0,0,0-.268A2.974,2.974,0,0,0,.365,1.232.659.659,0,0,1,.071.359.659.659,0,0,1,.944.066a4.335,4.335,0,0,1,1.65,1.46,1.527,1.527,0,0,1,0,1.7A4.243,4.243,0,0,1,.944,4.679.571.571,0,0,1,.65,4.766Z" transform="translate(8.617 6.899)" fill="#2a2a2a"/>
+        <path id="Vector-3" data-name="Vector" d="M8.332,13.029H4.7c-3.291,0-4.7-1.406-4.7-4.7V4.7C0,1.406,1.406,0,4.7,0H8.332c3.291,0,4.7,1.406,4.7,4.7V8.332C13.029,11.623,11.623,13.029,8.332,13.029ZM4.7.909C1.9.909.909,1.9.909,4.7V8.332c0,2.794.994,3.787,3.787,3.787H8.332c2.794,0,3.787-.994,3.787-3.787V4.7C12.12,1.9,11.126.909,8.332.909Z" transform="translate(1.08 1.08)" fill="#ff0101"/>
+        <path id="Vector-4" data-name="Vector" d="M.447,1.3C.2,1.3,0,1.011,0,.657S.2.009.447.009L11.908,0c.244,0,.447.294.447.648s-.2.648-.447.648Z" transform="translate(1.279 4.476)" fill="#ff0101"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H15.189V15.189H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

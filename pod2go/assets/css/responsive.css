@@ -1,0 +1,1334 @@
+@media(min-width: 992px) and (max-width: 1198px){
+
+}
+
+@media(min-width: 768px) {
+    .d_none_desktop{
+        display: none;
+    }
+}
+@media(min-width: 992px) {
+    .show_in_mobile{
+        display: none;
+    }
+}
+@media(min-width: 1200px) {
+    .miei_tab_body .musica_select_div {
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 196px;
+    }
+    .container{
+        max-width: 1170px;
+    }
+    .podcast_tab .nav-item {
+        flex: 1;
+    }
+}
+@media(min-width: 1200px) {
+    .container{
+        max-width: 1256px;
+    }
+}
+
+@media(max-width: 1199px) {
+    .learn_heading .sec_para {
+        width: 65%;
+    }
+    .register_img_sec .sec_para {
+    width: 100%;
+}
+    .library_content .sec_para {
+        width: 100%;
+    }
+    .podcast_tab .nav-item {
+        padding: 0 2px;
+    }
+    .article_banner h3{
+        font-size: 80px;
+    }
+    .template_inn {
+        padding: 20px 10px;
+        border-width: 3px;
+        min-height: 344px;
+    }
+    .my_ac_detailwrap .col-form-label {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .my_ac_inn p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .pricing_box_body .price_lists {
+        list-style: none;
+        padding: 20px 11px 20px;
+    }
+    .pricing_box_body .button_bottom {
+        padding: 0 11px 30px;
+    }
+    .pricing_box_body .price_lists li {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .voc_tab_colm {
+        padding-left: 15px;
+    }
+    /* progress step css */
+    .song_process_wrap {
+        padding: 20px 30px;
+        margin-bottom: 40px;
+    }
+    #progress-bar-container li .step-inner {
+        font-size: 10px;
+    }
+    /* progress step css */
+    .msc_checkbox_lsts {
+        padding-top: 30px;
+    }
+    .msc_checkbox_lsts h5 {
+        font-size: 17px;
+        line-height: 21px;
+        margin-bottom: 16px;
+    }
+    .musica_head_select {
+        display: inline-block;
+    }
+    .musica_select_div {
+        text-align: center;
+    }
+    .podcast_tab .nav-link {
+        min-width: 134px;
+    }
+    .musica_padding_box {
+        padding: 0;
+    }
+    .msc_accordion_hdng {
+        font-size: 15px;
+    }
+    .msc_accordion_hdng .icon {
+        margin-left: 10px;
+        width: 20px;
+    }
+    .msc_accordion_hdng .icon img {
+        width: 18px;
+    }
+    .musica_upload_boxes {
+        padding: 15px 15px;
+    }
+    .podcast_tab {
+        padding: 50px;
+    }
+    .uploaded_music_trackbox .left_btn {
+        margin-right: 20px;
+    }
+    .miei_tab_body {
+        padding: 40px 30px;
+    }
+    /*home music css*/
+    .home_music_boxdiv {
+        padding: 30px 0;
+    }
+    .home_music_box {
+        padding: 40px;
+    }
+    /*home music css*/
+    .h_banner_heading h3 {
+    font-size: 40px;
+    line-height: 50px;
+}
+    .h_banner_content_box .find_more_btn {
+        font-size: 18px;
+        margin-top: 40px;
+    }
+}
+@media(max-width: 1600px) {
+  .reg_succes_content .sec_head {
+    font-size: 36px;
+    }
+     .reg_succes_img img {
+        height: 500px;
+    }
+}
+@media(max-width: 1500px) {
+  .reg_succes_content .sec_head {
+    font-size: 32px;
+    }
+     .reg_succes_img img {
+        height: 400px;
+    }
+}
+
+@media(max-width: 1400px) {
+    .final_upload_text_captions {
+        padding: 36px 94px;
+        min-height: 450px;
+    }
+}
+
+@media(max-width: 991px) {
+    .hide_in_mobile{
+        display: none;
+    }
+    .register_left_col .register_img_sec {
+        padding-right: 0px;
+    }
+    .register_img_wrap img {
+        width: auto;
+        max-width: 100%;
+    }
+	.upload_review_podcast {
+		padding: 30px 30px;
+	}
+    .final_upload_text_container {
+        max-width: 100%;
+    }
+    .final_upload_text_captions {
+        padding: 30px 40px;
+        border-radius: 7px;
+        min-height: 350px;
+    }
+    .songs_edit_lists .tooltip_drop_menu {
+        left: 50%;
+        top: 100%;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        margin-top: 10px;
+    }
+    .songs_edit_lists .tooltip_drop_menu:after {
+        right: auto;
+        left: 50%;
+        top: 0;
+        margin-top: -18px;
+        border-bottom: 18px solid #fff;
+        border-left: 9px solid transparent;
+        border-right: 9px solid transparent;
+        border-top: none;
+        margin-left: -18px;
+    }
+    .h_banner_content_box {
+        padding-top: 50px;
+    }
+    .heading_50{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .upload_music_wrap .sec_head{
+        width: 100%;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .home_music_boxdiv {
+        padding: 0;
+    }
+    .home_music_box h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .home_music_box {
+        padding: 30px;
+        width: 100%;
+        border-right: none;
+    }
+    .home_music_box + .home_music_box {
+        border-left: none;
+        border-top: 1px solid #ECECEC;
+    }
+}
+@media(max-width: 991px) {
+    .embed_responsive_videos {
+        height: auto;
+    }
+    .pod_home_bannerinr:before {
+        height: 362px;
+    }
+    .pod_home_banner .img_box {
+        text-align: center;
+    }
+    .h_banner_content_box {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .h_banner_heading {
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    .h_banner_heading h3{
+        margin-bottom: 0;
+    }
+    .footer_inn {
+        text-align: center;
+        padding: 35px 0;
+    }
+    .nav_wrap {
+        min-height: 90px;
+    }
+    .reg_succes_container_wrap {
+        height: calc(100vh - 105px);
+        height: -webkit-calc(100vh - 105px);
+        height: -moz-calc(100vh - 105px);
+    }
+     /* library css */
+    .upload_music_wrap .warning_wrap, .upload_music_wrap .sec_para{
+        width: 100%;
+    }
+    .library_content {
+        margin-bottom: 30px;
+    }
+    /* library css */
+    .customer_detail_wrap .form-control {
+        max-width: 100%;
+    }
+    .customer_detail_inn, .billing_info .billing_info_btn {
+        padding-left: 0;
+    }
+    .miei_tab_body {
+        padding: 40px 20px;
+    }
+    .msc_accordion_content.active .musica_box_body {
+        min-height: 160px;
+    }
+    .musica_upload_boxes.border_solid .msc_accordion_content.active .musica_box_body {
+        min-height: 250px;
+    }
+    .pricing_table_section {
+        padding-bottom: 50px;
+    }
+    /* progress step css */
+    .song_process_inn .song_name h3 {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .song_process_inn .song_duration_wrap p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    /* progress step css */
+    /* upload page step css */
+    .voc_tab_left_txt{
+        border: none;
+    }
+    .voc_tab_colm {
+        border-left: none;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .voc_tab_sidebar {
+        padding: 50px 0 30px;
+    }
+    .tab_bottom_part {
+        margin-top: 20px;
+    }
+    .uploaded_music_trackbox {
+        margin-top: 40px;
+    }
+    .music_editing_panels {
+        margin-top: 50px;
+    }
+    .podcast_tab {
+        padding: 30px;
+    }
+    .miei_tab_body{
+        padding: 30px 20px;
+    }
+    .music_editing_row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .music_editing_row .left_panel,  .music_editing_row .right_panel {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .music_editing_row .right_panel:before {
+        display: none;
+    }
+    /* upload page step css */
+/*header*/
+
+.nav_wrap .nav-item {
+    padding-left: 0;
+}
+.nav_wrap .nav-link {
+    font-size: 16px;
+    line-height: 17px;
+    padding: 12px 0;
+}
+.nav_wrap .navbar-nav .active .nav-link::after {
+    left:0 
+}
+
+.nav_wrap .head_icons_wrap {
+    padding: 8px 0;
+}
+.nav_wrap .nav-item .plus_icon img {
+    width: 32px;
+}
+.upload_tabs_wrap .sec_para {
+    width: 60%;
+    display: inline-block;
+}
+.upload_complt_tab h5 {
+    padding-top: 30px;
+}
+.upload_complt_tab .sec_head {
+    padding-top: 45px;
+}
+.sec_head {
+    font-size: 32px;
+    line-height: 41px;
+
+}
+.reg_form_head h3 {
+    font-size: 24px;
+}
+.login_forget_pass h3 a {
+    font-size: 12px;
+   
+}
+.check_inn .form-group .lab {
+    font-size: 12px;
+}
+.article_content {
+    padding: 45px 85px;
+}
+.read_more-section h4 {
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.read_more-section {
+    padding: 0 52px 80px 52px;
+    margin-bottom: 70px;
+}
+.reg_imp_content_wrap h3 {
+    font-size: 42px;
+}
+.reg_imp_content_wrap p {
+    font-size: 16px;
+    padding-top: 0px;
+    line-height: 22px;
+}
+.reg_imp_inn {
+    padding: 40px 40px;
+    margin: 54px 0 45px 0;
+    position: relative;
+}
+.learn_podcast_img {
+    text-align: center;
+}
+.learn_podcast_content h4 {
+    min-height: 0;
+    text-align: center;
+}
+.learn_podcast_content p {
+    text-align: center;
+}
+.learn_podcast_detail {
+    min-height: 480px;
+    margin-bottom: 40px;
+    padding: 16px;
+}
+.how_choose_wrap h3 {
+    font-size: 30px;
+    line-height: 33px;
+}
+.learn_heading .sec_para {
+    width: 100%;
+}
+.learn_wrap {
+    padding-top: 50px;
+}
+
+    
+    
+}
+
+@media (max-width: 767px) {
+    /* review error page css */
+    .upload_tabs_wrap .nav-item {
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .upload_podcaset_head .upload_new {
+        display: none;
+    }
+    .upload_review_podcast .down_song_name {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .upload_review_podcast .song_duration {
+        display: none;
+    }
+    .upload_review_podcast .download_arrow img {
+        margin-right: 0;
+    }
+    .upload_review_podcast .song_list {
+        flex-direction: column-reverse;
+        justify-content: center;
+        text-align: center;
+    }
+    /* review error page css */
+    .work_process_box {
+        min-height: auto;
+        text-align: center;
+    }
+    .work_process_box .top_row {
+        margin-bottom: 0;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -ms-flex-pack: center!important;
+        justify-content: center!important;
+    }
+    .work_process_box .top_row .icon {
+        margin: 15px 0;
+    }
+    .work_process_box .top_row .icon img {
+        height: 45px;
+        max-height: inherit;
+    }
+    .d_none_mobile{
+        display: none;
+    }
+    .warning_wrap {
+        padding-bottom: 0;
+    }
+    .learn_podcast_detail .read_more_btn a {
+        font-size: 17px;
+    }
+    .my_ac_detailwrap .account_button_bottom {
+        text-align: center;
+    }
+    .library_wrap_inn {
+        padding: 30px 20px;
+        border-radius: 12px;
+    }
+    .upload_new_content h3 {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .review_add_song img {
+        width: 45px;
+        height: 45px;
+        margin-left: 10px;
+    }
+     /* library css */
+     .upload_music_wrap {
+        padding: 30px 20px 60px 20px;
+    }
+    .template_inn {
+        padding: 20px 10px 60px;
+        border-width: 3px;
+        height: auto;
+        min-height: auto;
+    }
+    .upload_music_wrap .upload_btn {
+        padding: 12px 30px;
+        width: auto;
+    }
+    .template_name {
+        display: flex;
+        justify-content: space-between;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    .template_top_hdng h3 {
+        font-size: 24px;
+        line-height: 30px;
+        padding-bottom: 12px;
+    }
+    .template_inn .template_bottom_hdng {
+        display: inline-block;
+        width: 100%;
+        padding-top: 18px;
+    }
+    .template_name .green_cross_wrap img {
+        width: 12px;
+    }
+    /* library css */
+	.upload_review_podcast {
+		padding: 30px 20px;
+	}
+	.song_process_wrap {
+		padding: 20px 15px;
+		margin-bottom: 30px;
+	}
+    /* notification css */
+    .caret_wrap {
+        right: auto;
+        left: 120px;
+    }
+    .notification-menu {
+        left: -97px;
+        width: 300px;
+    }
+    .notification-menu li {
+        padding: 30px 20px;
+    }
+     /* notification css */
+    /* billing info css */
+    .payment_select_wrap p {
+        padding: 20px 15px;
+        height: auto;
+        border-width: 3px;
+        border-radius: 5px;
+    }
+    .cart_itemwrap {
+        border-width: 3px;
+        padding: 20px 15px;
+        border-radius: 5px;
+    }
+    .cart_itemwrap h4 {
+        font-size: 20px;
+        line-height: 26px;
+        margin: 5px 0;
+    }
+    .cart_time p, .cart_price p  {
+        font-size: 14px;
+        line-height: 20px;
+        margin: 4px 0;
+    }
+    .cart_remove img {
+        max-width: 17px;
+    }
+    .cart_checkout_sec h3 {
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 30px;
+        padding-top: 25px;
+    }
+    .total_price h5 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    /* billing info css */
+    .dlt_ac {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        min-height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .dlt_ac .delete_btn {
+        margin-top: 20px;
+    }
+    .my_ac_detailwrap .col-form-label, .customer_detail_wrap label {
+        font-size: 15px;
+    }
+    .customer_detail_wrap .form-control, .my_ac_detailwrap .form-control{
+        font-size: 15px;
+    }
+    .my_ac_inn p {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .my_ac_detailwrap {
+        padding: 34px 20px;
+    }
+    .msc_white_buttons {
+        font-size: 14px;
+    }
+    .ui-selectmenu-button.ui-button{
+        font-size: 14px;
+    }
+    .ui-selectmenu-menu .ui-menu .ui-menu-item-wrapper {
+        padding: 8px;
+        font-size: 13px;
+    }
+    #progress-bar-container li .step-inner {
+        font-size: 10px;
+        display: none;
+    }
+    .song_process_inn {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    /* final upload css */
+    .final_upload_text_captions {
+        padding: 30px 20px;
+        min-height: 300px;
+    }
+    .final_upload_text_captions .headings {
+        font-size: 40px;
+        line-height: 46px;
+        margin-bottom: 14px;
+    }
+    .final_upload_text_captions .subheadings {
+        font-size: 20px;
+        line-height: 27px;
+        margin-bottom: 8px;
+    }
+    .final_upload_text_captions p{
+        font-size: 14px;
+    }
+    /* final upload css */
+    .working_minut_txt {
+        font-size: 16px;
+    }
+    .working_minut_txt span.timess {
+        font-size: 28px;
+    }
+    .podcast_tab_contents {
+        min-height: auto;
+    }
+    .podcast_tab_contents .nome_tab .miei_tab_body{
+        min-height: auto;
+    }
+    .tab_top_bottom_wrap .tab_top_part {
+        min-height: 200px;
+    }
+    .musica_save_form .form_group input {
+        padding: 0 15px;
+        border: 3px solid #D3DCDE;
+        background: #f4f4f4;
+        font-size: 14px;
+    }
+    .max_width_652, .max_width_665, .max_width_471, .max_width_576, .max_width_717{
+        max-width: 100%;
+    }
+    .miei_tab_body .bottom_button_dv {
+        justify-content: center !important;
+        -ms-flex-pack: center !important;
+    }
+    .tab_btn_gray, .tab_btn_white {
+        height: 50px;
+        line-height: 50px;
+        font-size: 15px;
+    }
+    .miei_tab_body .file_ready_button {
+        margin-top: 44px;
+        margin-bottom: 30px;
+    }
+    .file_ready_btn {
+        height: 60px;
+        line-height: 60px;
+        padding: 0 18px;
+        font-size: 17px;
+        min-width: 300px;
+    }
+    .file_ready_btn img {
+        margin-left: 10px;
+        max-width: 20px;
+    }
+    .podcast_tab .nav-item {
+        width: 50%;
+    }
+    .miei_tab_body, .podcast_tab {
+        padding: 15px;
+    }
+    .uploaded_music_trackbox .left_btn {
+        margin-right: 15px;
+    }
+    .uploaded_music_trackbox .pause_btn {
+        width: 40px;
+        height: 40px;
+    }
+    .music_editing_row .input_icon_group .icons {
+        top: 14px;
+        width: 16px;
+        height: 16px;
+    }
+    .music_editing_row .form_group input, .music_editing_row .form_group textarea {
+        height: 50px;
+        padding: 0 10px 0 37px;
+        font-size: 14px;
+    }
+    .file-txt textarea {
+        padding: 12px 10px 0px;
+        font-size: 14px;
+    }
+    .music_editing_row .p_buttons {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        margin-left: 10px;
+    }
+    .music_editing_row .p_buttons img {
+        max-width: 20px;
+    }
+    .music_editing_row .cut_btn img {
+        max-width: 16px;
+    }
+    .music_editing_row .cut_btn {
+        height: 50px;
+        line-height: 50px;
+        font-size: 15px;
+    }
+    .heading_50, .upload_music_wrap .sec_head {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .pod_home_bannerinr:before {
+        height: 329px;
+    }
+    .h_banner_heading h3{
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .subscribe_heading_area .subheading {
+        margin-bottom: 30px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .sec_para {
+        font-size: 14px;
+    }
+    .tab_headings_texts p {
+        font-size: 14px;
+    }
+    .home_music_box {
+        padding: 25px 20px;
+    }
+    .home_music_box h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .music_row .icon {
+        margin-right: 10px;
+    }
+/*Footer*/
+
+.footer_inn {
+    padding: 20px 0;
+}
+
+.footer_icons {
+    padding: 10px 0;
+}
+.footer_icons img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.footer_icons {
+    display: flex;
+    justify-content: center;
+}
+
+
+.upload_tabs_wrap .nav-pills .nav-link {
+    font-size: 20px;
+    line-height: 26px;
+    min-width: 208px;
+    padding: 10px 10px;
+}
+.upload_tabs_wrap .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    font-size: 18px;
+    line-height: 26px;
+}
+.padding100 {
+    padding: 50px 0;
+}
+.sec_head {
+    font-size: 40px;
+    line-height: 46px;
+}
+.reg_succes_content .sec_head {
+    font-size: 35px;
+    line-height: 35px;
+    padding-bottom: 10px;
+}
+.register_form_sec {
+    margin-top: 0;
+}
+.reg_succes_section .reg_btn_wrap {
+    text-align: center;
+    margin: 30px 0;
+}
+.reg_succes_img img {
+    height: 320px;
+}
+.article_content {
+    padding: 40px 40px;
+}
+.read_more-section .col-lg-4 {
+    text-align: center;
+}
+.article_banner {
+    min-height: 350px;
+    margin: 60px 0 0 0;
+    align-items: center;
+}
+.article_banner_caption {
+    width: 100%;
+    margin-bottom: 0px;
+}
+.article_banner h3 {
+    font-size: 45px;
+    line-height: 46px;
+}
+.contact_call {
+    padding-bottom: 14px;
+}
+.contact_inn h2 {
+    padding-bottom: 30px;
+}
+.contact_detail p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.contact_call img {
+    width: 30px;
+    height: 30px;
+}
+.contact_mail img {
+    width: 30px;
+    height: 30px;
+}
+.contact_wrap {
+    padding: 60px 0;
+    min-height: calc(100vh - 245px);
+    min-height: -moz-calc(100vh - 245px);
+    min-height: -webkit-calc(100vh - 245px);
+}
+.reg_imp_content_wrap h3 {
+    font-size: 32px;
+}
+.learn_podcast_content h4 {
+    font-size: 22px;
+}
+.learn_podcast_content p {
+    padding-bottom: 25px;
+}
+  /* upload-in-corso tab css */
+  .upload_complt_tab .sec_head {
+        font-size: 24px;
+    }
+    .upload_complt_tab h5 {
+        font-size: 21px;
+    }
+    .upload_complt_tab .upload_img img {
+        max-width: 160px;
+    }
+    .upload_complt_tab .mobile_podcast_texts {
+        display: block;
+    }
+ /* upload-in-corso tab css */
+    
+}
+
+@media(max-width: 575px) {
+    .pricing_box_dv {
+        padding: 12px;
+    }
+    .price_lists .music_row .musicimg img {
+        height: 31px;
+    }
+    .pricing_box_body{
+        text-align: center;
+    }
+    .pricing_box_body .price_lists {
+        list-style: none;
+        padding: 20px 15px 20px;
+        display: inline-block;
+        text-align: left;
+    }
+    .pricing_box_body .pricing_btn {
+        height: 50px;
+        line-height: 50px;
+        font-size: 14px;
+    }
+    .tooltip_dropdown {
+        left: -147px;
+    }
+    .pod_home_bannerinr:before {
+        height: 244px;
+    }
+    .pod_home_banner .img_box {
+        text-align: center;
+    }
+    .pod_home_banner .img_box img {
+        max-width: 300px;
+    }
+}
+@media(max-width: 575px) {
+    .article_banner h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    /* billing info css */
+    .cart_itemwrap {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .cart_itemwrap .cart_remove {
+        position: absolute;
+        right: 7px;
+        top: 5px;
+    }
+    /* billing info css */
+/* final upload page css */
+.final_upload_text_captions {
+    padding: 30px 15px;
+}
+.final_upload_text_captions .headings {
+    font-size: 36px;
+    line-height: 40px;
+}
+.final_upload_text_captions .subheadings {
+    font-size: 17px;
+    line-height: 22px;
+}
+.final_upload_text_captions p {
+    font-size: 13px;
+}
+/* final upload page css */
+.songs_edit_lists li {
+    font-size: 14px;
+}
+.msc_accordion_hdng {
+    font-size: 16px;
+}
+.msc_accordion_hdng .icon {
+    margin-left: 10px;
+    width: 20px;
+}
+.msc_accordion_hdng .icon img {
+    width: 20px;
+}
+.musica_upload_label h5 {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 5px;
+}
+.musica_upload_label .up_icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+.musica_upload_label .up_icon img {
+    max-width: 24px;
+}
+.voc_track_line .track_text {
+    padding-right: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    width: 80px;
+}
+.voc_track_line .close_icon {
+    margin-left: 10px;
+}
+.voc_track_line .close_icon img {
+    width: 13px;
+}
+#upload_continue_modal .modal-dialog, #voce_caution_modal .modal-dialog {
+    max-width: 100%;
+}
+.h_banner_content_box .find_more_btn, .subscribe_heading_area .subscribe_btn {
+    font-size: 16px;
+    height: 60px;
+    line-height: 60px;
+}
+.pricing_box_body .price_lists li .check_img {
+    max-width: 15px;
+}
+.pricing_box_body .price_lists li {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    margin: 14px 0;
+}
+.pricing_box_dv .pricing_head {
+    padding: 18px 0;
+}
+.pricing_box_dv .pricing_head h3 {
+    font-size: 22px;
+    line-height: 28px;
+}
+.pricing_box_dv .bottom_price {
+    font-size: 32px;
+    line-height: 36px;
+}
+/*Footer*/
+
+.sec_head {
+    font-size: 28px;
+    line-height: 40px;
+}
+.reg_form_head h3 {
+    font-size: 20px;
+}
+.reg_btn_wrap {
+    margin: 35px 0;
+}
+.register_img_wrap {
+    text-align: center;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.register_img_wrap img {
+    width: 100%;
+    max-width:100%;
+    height: auto;
+}
+.register_btn {
+    line-height: 30px;
+    padding: 17px 10px;
+    width: 250px;
+    font-size: 20px;
+}
+.dlt_ac .delete_btn {
+    font-size: 15px;
+}
+.terms_condition p {
+    color: #28B67E;
+    font-size: 16px;
+}
+.terms_condition a {
+    font-size: 16px;
+}
+.login_forget_pass h3 {
+    padding-top: 0px;
+}
+.reg_form_inn.register_form_sec .form-group {
+    width: 360px;
+}
+.reset_password_wrap .register_btn {
+    padding: 12px 10px;
+    width: 211px;
+    font-size: 15px;
+}
+.reset_password_wrap h3 {
+    font-size: 24px;
+    }
+    .upload_tabs_wrap .nav-pills .nav-link {
+    font-size: 18px;
+    line-height: 26px;
+    min-width: 180px;
+    padding: 10px 10px;
+}
+.upload_tabs_wrap .sec_para {
+    width: 100%;
+    display: inline-block;
+}
+.nav_wrap .navbar-brand {
+    color: rgba(0,0,0,.9);
+    width: 90px;
+    max-width: 90px;
+}
+.article_content_wrap h5 {
+    font-size: 23px;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+.article_content {
+    padding: 30px;
+}
+.read_more-section {
+    padding: 0 52px 40px 52px;
+}
+.contact_inn {
+    padding: 30px 30px 40px 30px;
+}
+.reg_imp_content_wrap h3 {
+    font-size: 25px;
+}
+
+}
+
+@media(max-width: 480px) {
+    .library_wrap_inn {
+        padding: 30px 15px;
+    }
+    .upload_music_wrap {
+        padding: 30px 15px 60px;
+    }
+    .working_minut_txt {
+        font-size: 13px;
+    }
+    .working_minut_txt span.timess {
+        font-size: 21px;
+    }
+    .msc_checkbox_lsts {
+        padding-top: 20px;
+    }
+    .msc_checkbox_lsts h5 {
+        font-size: 15px;
+        line-height: 19px;
+        margin-bottom: 12px;
+    }
+    .custom_checkbox .check_lbl {
+        font-size: 14px;
+        padding-left: 25px;
+    }
+    .msc_checkbox_lsts .check_lbl {
+        padding-left: 25px;
+    }
+    .musica_save_form .custom_checkbox .check_lbl {
+        padding-left: 35px;
+        margin-bottom: 15px;
+    }
+    .file_ready_btn img {
+        margin-left: 7px;
+        max-width: 15px;
+    }
+    .file_ready_btn {
+        height: 50px;
+        line-height: 50px;
+        padding: 0 22px;
+        font-size: 15px;
+        min-width: auto;
+    }
+}
+@media(max-width: 475px) {
+.upload_tabs_wrap .nav-pills .nav-link {
+    font-size: 16px;
+    line-height: 26px;
+    width: 100% !important;
+    padding: 8px 10px;
+}
+.upload_tabs_wrap .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    font-size: 16px;
+    line-height: 26px;
+}
+.upload_tabs_wrap .nav-item {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+.upload_tabs_wrap ul#pills-tab {
+    display: flex;
+    justify-content: center;
+}
+.reg_succes_content .sec_head {
+    font-size: 30px;
+}
+.reg_succes_section .register_btn {
+    padding: 10px 30px;
+    width: auto;
+    font-size: 16px;
+    min-width: auto;
+    width: auto;
+}
+.article_banner {
+    min-height: 300px;
+    margin: 40px 0 0 0;
+}
+.article_content_wrap h5 {
+    font-size: 19px;
+    line-height: 23px;
+    padding-bottom: 10px;
+}
+.discover_wrap {
+    padding: 0 20px;
+}
+.article_content {
+    padding: 20px;
+}
+.read_more-section {
+    padding: 0 30px 40px 30px;
+    margin-bottom: 40px;
+}
+.contact_inn {
+    padding: 30px 30px 30px 25px;
+}
+.contact_inn h2 {
+    padding-bottom: 15px;
+}
+.contact_detail p {
+    font-size: 16px;
+    line-height: 28px;
+    padding-left: 10px;
+}
+.reg_imp_content_wrap h3 {
+    font-size: 22px;
+    line-height: 25px;
+}
+.learn_podcast_detail {
+   
+    margin-bottom: 20px;
+}
+}
+
+@media(max-width: 390px) {
+.pricing_box_body .price_lists {
+    list-style: none;
+    padding: 20px 5px 20px;
+}
+}
+@media(max-width: 375px) {
+    .music_editing_row .cut_btn {
+        font-size: 14px;
+    }
+   .tab_btn_gray, .tab_btn_white {
+    font-size: 14px;
+    min-width: 100px;
+}
+.podcast_tab .nav-item {
+    width: 100%;
+}
+.sec_head {
+    font-size: 27px;
+    line-height: 33px;
+}
+.check_inn .form-group .lab:before {
+    padding: 7px;
+}
+.reg_form_inn.register_form_sec .form-group {
+    width: 100%;
+}
+.reset_password_wrap h3 {
+    font-size: 23px;
+    line-height: 31px;
+}
+.check_inn .form-group input:checked + .lab:after {
+    top: 5px;
+    left: 8px;
+    width: 5px;
+    height: 10px;
+}
+
+
+.upload_tabs_wrap .nav-pills .nav-link {
+   
+    width: 100%;
+}
+.upload_complt_tab h5 {
+    padding-top: 10px;
+}
+.contact_call img {
+    width: 20px;
+    height: 20px;
+}
+.contact_mail img {
+    width: 20px;
+    height: 20px;
+}
+.contact_detail p {
+    font-size: 16px;
+    line-height: 17px;
+    padding-left: 7px;
+}
+.contact_inn {
+    padding: 30px 30px 30px 18px;
+}
+
+
+
+}
+
+@media(max-width: 330px) {
+    .h_banner_heading h3 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+}
+@media(max-width: 300px) {
+.reg_succes_content .sec_head {
+    font-size: 20px;
+    line-height: 23px;
+}
+
+}

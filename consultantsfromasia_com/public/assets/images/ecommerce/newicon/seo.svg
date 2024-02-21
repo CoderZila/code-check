@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="seo" transform="translate(-791 -902)">
+    <path id="Vector" d="M18.5,37A18.5,18.5,0,1,1,37,18.5,18.516,18.516,0,0,1,18.5,37Zm0-34.419A15.919,15.919,0,1,0,34.419,18.5,15.938,15.938,0,0,0,18.5,2.581Z" transform="translate(791 902)" fill="#db1010"/>
+    <text id="SEO-2" data-name="SEO" transform="translate(800 924)" fill="#292d32" font-size="10" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">SEO</tspan></text>
+    <path id="Vector-2" data-name="Vector" d="M0,0H10.759" transform="translate(804 920)" fill="#db1010"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H37V37H0Z" transform="translate(791 902)" fill="none" opacity="0"/>
+  </g>
+</svg>

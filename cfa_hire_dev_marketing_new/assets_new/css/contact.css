@@ -1,0 +1,397 @@
+/*====== job Hire page contact form css ==========*/
+input:focus, select:focus, button:focus, textarea:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+.custom_checkbox {
+    display: inline-flex;
+    font-size: 13px;
+    line-height: 15px;
+    color: #1A1A1A;
+    cursor: pointer;
+    margin-bottom: 14px;
+    align-items: center;
+}
+.custom_checkbox .check_control_label {
+    position: relative;
+    padding-left: 24px;
+}
+.custom_checkbox input[type="checkbox"], .custom_checkbox input[type="radio"] {
+    display: none;
+}
+.custom_checkbox .c_text {
+    padding-left: 11px;
+    text-align: left;
+    color: #101a36;
+    font-size: 15px;
+    line-height: 26px;
+    display: block;
+}
+.custom_checkbox .c_square {
+    display: inline-block;
+    border: 1px solid #707070;
+    background: #ffffff;
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    position: absolute;
+    left: 0;
+    top: 3px;
+}
+.custom_checkbox .c_square:after {
+    content: "\f00c";
+    font-family: "Font Awesome 5 Pro";
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    font-weight: 400;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display, inline-block);
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    font-size: 14px;
+    opacity: 0;
+    visibility: hidden;
+}
+.custom_checkbox input:checked ~ .c_square {
+    background: var(--red_color);
+    border-color: var(--red_color);
+}
+.custom_checkbox input:checked ~ .c_square:after {
+    color: #ffffff;
+    opacity: 1;
+    visibility: visible;
+}
+.h_site_button {
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 10px;
+    min-width: 134px;
+    height: 48px;
+    line-height: 48px;
+    background: var(--red_color);
+    color: #ffffff;
+    border-radius: 16px 16px 16px 4px;
+    border: none;
+    position: relative;
+    z-index: 9;
+    -webkit-transition: all ease-in-out 0.4s;
+    -moz-transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.4s;
+}
+.h_site_button:before {
+    position: absolute;
+    content: '';
+    background-color: #101a36;
+    width: 50px;
+    height: 100%;
+    right: 0;
+    border-radius: 16px 16px 16px 4px;
+    z-index: -1;
+    opacity: 0;
+    visibility: visible;
+    -webkit-transition: all ease-in-out 0.4s;
+    -moz-transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.4s;
+}
+.h_site_button:hover{
+    background: var(--black_color);
+    color: #ffffff;
+}
+.h_site_button:hover:before {
+    opacity: 1;
+    visibility: visible;
+    width: 100%;
+}
+.hire_contact_sec_wrap {
+    background: url(../images/contact/contact_form_bg.webp) no-repeat;
+    background-size: cover;
+    background-position: top right;
+    padding-top: 50px;
+    padding-bottom: 65px;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.banner_circle_right {
+    position: absolute;
+    right: -200px;
+    top: -200px;
+    width: 400px;
+    height: 400px;
+}
+.contact_form_left_text {
+    padding: 30px 0;
+    text-align: left;
+}
+.contact_heading_area {
+    margin-bottom: 30px;
+}
+.contact_heading_area .badge_text {
+    margin-bottom: 19px;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 500;
+    padding: 5px 15px;
+    border-radius: 2em;
+    letter-spacing: 0.19em;
+    background-color: var(--black_color);
+}
+.contact_heading_area .headings {
+    font-size: 29px;
+    line-height: 35px;
+    font-weight: 800;
+    margin-bottom: 13px;
+    color: #000;
+}
+.contact_heading_area p {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.contact_social_lnks ul {
+    list-style: none;
+    padding: 0;
+}
+.contact_social_lnks ul li {
+    font-weight: 500;
+    word-break: break-word;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+    color: #101a36;
+    font-size: 18px;
+}
+.contact_social_lnks ul li a {
+    text-decoration: none;
+    width: 100%;
+    color: #101a36;
+}
+.contact_social_lnks ul li .icon {
+    flex: 0 0 auto;
+    width: 30px;
+    margin-right: 18px;
+}
+.contact_social_lnks ul li .icon img {
+    max-width: 30px;
+}
+.contact_social_lnks ul li .icon i {
+    font-size: 24px;
+    color: #ef1d26eb;
+}
+.contact_social_lnks ul li .txts {
+    line-height: 25px;
+}
+.our_clients_dv2 h4 {
+    font-size: 23px;
+    line-height: 31px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 13px;
+}
+.our_clients_logo2 .c_logo_item {
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.our_clients_logo2 .c_logo_item img {
+    height: 42px;
+}
+.contact_form_bg {
+    position: relative;
+    z-index: 1;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.contact_form_bg:after {
+    position: absolute;
+    content: "";
+    background: #DFDFDF;
+    border-radius: 16px 16px 16px 4px;
+    box-shadow: 0 7px 19px rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0 7px 19px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 7px 19px rgb(0 0 0 / 10%);
+    padding: 7px 0 7px 7px;
+    margin-right: 0;
+    left: -7px;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.contact_form_box {
+    background: #fff;
+    border-radius: 16px 16px 16px 4px;
+}
+.contact_form_box form {
+    padding: 40px 20px 40px;
+}
+.contact_form_box .form_group {
+    margin-bottom: 30px;
+}
+.contact_form_box .form_group input, 
+.contact_form_box .form_group select, 
+.contact_form_box .form_group textarea {
+    border: none;
+    border-bottom: 1px solid #70707021;
+    width: 100%;
+    height: 40px;
+    font-size: 17px;
+    color: #545454;
+    background-color: #ffffff;
+}
+.contact_form_box .form_group textarea {
+    resize: none;
+    height: 100px;
+}
+.cont_name_error {
+    color: var(--red_color);
+}
+.country_number_gorup {
+    display: -ms-flexbox;
+    display: flex;
+}
+.country_number_gorup .selct_group {
+    flex: 0 0 auto;
+    width: 60px;
+}
+.country_number_gorup .input_group {
+    flex: 1;
+}
+.contact_form_box .country_number_gorup input {
+    padding-left: 8px;
+}
+.contact_form_box .bootstrap-select {
+    width: 100% !important;
+    appearance: none !important;
+}
+.contact_form_box .bootstrap-select .btn.dropdown-toggle {
+    background: #ffffff;
+    border: none;
+    border-bottom: 1px solid #70707021;
+    border-radius: 0;
+    color: #545454;
+    padding: 8px 0;
+    font-size: 17px;
+    height: 40px;
+}
+.contact_form_box .dropdown-toggle::after {
+    vertical-align: middle;
+    content: "";
+    border-top: none !important;
+    border-right: none !important;
+    border-bottom: 0 !important;
+    border-left: none !important;
+    background: url(../images/contact/arrow_down.svg) no-repeat;
+    background-size: contain;
+    width: 16px;
+    height: 7.5px;
+}
+.contact_form_box .dropdown-menu .inner {
+    overflow-y: auto;
+    max-height: 200px;
+    min-height: auto !important;
+}
+.contact_form_box .dropdown-menu li a {
+    padding: 7px 10px;
+    color: #b5adad;
+    font-size: 15px;
+    display: block;
+}
+.contact_form_box .dropdown-menu li a:focus, 
+.contact_form_box .dropdown-menu li a:hover {
+    color: #ffffff;
+    background-color: #101a36;
+}
+.contact_form_box .dropdown-menu li a.active, 
+.contact_form_box .dropdown-menu li a:active {
+    color: #ffffff;
+    background-color: var(--red_color);
+}
+.contact_form_box .bootstrap-select .btn.dropdown-toggle:hover, 
+.contact_form_box .bootstrap-select .btn.dropdown-toggle:focus, 
+.contact_form_box .bootstrap-select .btn.dropdown-toggle:active {
+    color: #545454;
+    outline: none !important;
+    background: #ffffff;
+    border: none;
+    border-bottom: 1px solid #70707021;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+.h_file_upload_btn {
+    position: relative;
+    width: 100%;
+    height: 55px;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 55px;
+    font-weight: 600;
+}
+.h_file_upload_btn input {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    left: 0;
+    cursor: pointer;
+    opacity: 0;
+}
+.h_file_upload_btn >label {
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h_file_upload_btn > label i {
+    margin-right: 5px;
+    flex: 0 0 auto;
+}
+.h_file_upload_btn >label .texts {
+    display: inline-block;
+    max-width: 80%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/*====== job Hire page contact form css ==========*/
+
+@media screen and (max-width:767px) {
+    .banner_circle_right {
+        right: -100px;
+        top: -100px;
+        width: 200px;
+        width: 200px;
+    }
+    .contact_heading_area .headings {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .contact_heading_area p {
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 500;
+    }
+    .contact_social_lnks ul li .icon {
+        margin-right: 12px;
+    }
+    .contact_social_lnks ul li {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .contact_form_box .form_group input, 
+    .contact_form_box .form_group select, 
+    .contact_form_box .form_group textarea, .contact_form_box .bootstrap-select .btn.dropdown-toggle {
+        font-size: 15px;
+    }
+    .contact_form_box .dropdown-menu li a {
+        padding: 7px 10px;
+        color: #b5adad;
+        font-size: 14px;
+        display: block;
+    }
+}

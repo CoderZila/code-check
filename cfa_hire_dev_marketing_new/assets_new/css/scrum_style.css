@@ -1,0 +1,785 @@
+:root {
+    --red_color: #d72131;
+    --black_color: #101a36;
+}
+.bg_black {
+    background-color:var(--black_color) ;
+}
+.bg_red {
+    background-color:var(--red_color) ;
+}
+.cfa_mrk_footer {
+    text-align: center;
+}
+.scrum_slide_blue {
+    background-color:var(--black_color) ;
+}
+.scrum_slide_black {
+    background-color: #262a33;
+}
+.mobile_slide_black2 {
+    background-color: #0f1426;
+}
+.scrum_slide_red {
+    background-color:#b4222f;
+}
+.scrum_slide_red_black {
+    background-color: var(--red_color);
+    background: linear-gradient(to bottom, rgba(180,34,47,1) 0%,rgba(16,25,54,1) 100%);
+    background: linear-gradient(to right, rgba(180,34,47,1) 0%,rgba(16,25,54,1) 100%);
+}
+.scrum_slide_gray_light {
+    background-color: #e1e1e3;
+}
+.scrum_slide_gray_light2 {
+    background-color: #eeeeee;
+}
+.scrum_slide_gray_light3 {
+    background-color: #fcfcfc;
+}
+.full_white_blue_bg {
+    background: linear-gradient(to left, rgb(16 25 54)50%, rgb(255 255 255)50%);
+}
+.full_blue_white_bg {
+    background: linear-gradient(to right, rgb(16 25 54)50%, rgb(255 255 255)50%);
+}
+@font-face {
+    font-family: 'Renogare Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local("../fonts/Renogare Regular.woff2"), url("../fonts/renogare-webfont.woff2") format("woff2");
+  }
+  p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color:  var(--black_color);
+}
+/*sidemenu css*/
+.scrm_sidemenu_wrapper {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgba(0,0,0,0.5);
+    -webkit-transition: all ease-in-out .3s;
+    -moz-transition: all ease-in-out .3s;
+    -ms-transition: all ease-in-out .3s;
+    transition: all ease-in-out .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.scrm_sidemenu_containerdv {
+    position: relative;
+    width: 480px;
+    padding-right: 40px;
+    height: 100vh;
+    -webkit-transition: all ease-in-out .5s;
+    -moz-transition: all ease-in-out .5s;
+    -ms-transition: all ease-in-out .5s;
+    transition: all ease-in-out .5s;
+    -webkit-transform: translateX(-480px);
+    -moz-transform: translateX(-480px);
+    -ms-transform: translateX(-480px);
+    -o-transform: translateX(-480px);
+    transform: translateX(-480px);
+}
+.scrm_sidemenu_container {
+    height: 100%;
+    background: #fff;
+}
+.scrm_sidemenu_logo {
+    padding: 20px 0;
+    background-color: var(--black_color);
+    text-align: center;
+}
+.close_sidemenubtn img {
+    width: 20px;
+}
+.close_sidemenubtn {
+    background-color: #fff;
+    padding: 0;
+    color: #000;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 0;
+    border: none;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.scrm_sidemenu_scroll {
+    height: calc(100vh - 70px);
+    overflow-y: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.scrum_custom_dots .owl_dot {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border: none;
+    background: transparent;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding: 0 50px;
+    cursor: pointer;
+}
+.scrum_custom_dots .owl_dot:last-child {
+    margin-bottom: 0;
+}
+.scrm_sidemenu_wrapper.showmenus {
+    opacity: 1;
+    visibility: visible;
+}
+.scrm_sidemenu_wrapper.showmenus .scrm_sidemenu_containerdv {
+    -webkit-transform: translateX(0px);
+    -moz-transform: translateX(0px);
+    -ms-transform: translateX(0px);
+    -o-transform: translateX(0px);
+    transform: translateX(0px);
+}
+/*sidemenu css*/
+.scrum_slidersection {
+    min-height: 400px;
+}
+.ranogare_font {
+    font-family: 'Renogare Regular';
+}
+.scrum_slides_sec .container {
+    max-width: 1655px;
+}
+.scrum_sec_full_height {
+    height: calc(100vh - 80px);
+}
+.cfa_mark_spotlight_logos .links {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.scrum_slides_sec {
+    width: 100%;
+    height: calc(100vh - 135px);
+    height: -webkit-calc(100vh - 135px);
+    height: -moz-calc(100vh - 135px);
+    overflow-x: hidden;
+}
+.humbergur_menu_btn {
+    border: none;
+    background-color: rgba(0,0,0,0.4);
+    padding: 13px 11px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.humbergur_menu_btn span {
+    background-color: #fff;
+    width: 22px;
+    height: 2px;
+    display: block;
+    margin-bottom: 5px;
+}
+.humbergur_menu_btn span:last-child {
+    margin-bottom: 0;
+}
+.scrum_banner_div {
+    position: relative;
+    overflow: hidden;
+    background-image: url(../images/scrum/surum_banner.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+}
+.scrum_banner_div .ovalshape_img {
+    max-width: 800px;
+    height: 98%;
+    margin: 0 auto;
+    position: relative;
+}
+.scrum_banner_div .ovalshape_img .shapimg {
+    max-width: 100%;
+    max-height: 100%;
+}
+.scrum_bannercaptions {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: 11;
+    left: 50%;
+}
+.scrum_bannercaptions h2 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 100px;
+    line-height: 1;
+    margin-bottom: 0;
+    font-family: 'Renogare Regular';
+}
+.scrum_bannercaptions h3 {
+    color: #fff;
+    font-size: 60px;
+    line-height: 1;
+    margin-bottom: 0;
+    font-family: 'Renogare Regular';
+}
+.scrum_bannercaptions .slide1_divider {
+    margin: 20px auto;
+    border-top: 1px solid #fff;
+    width: 40%;
+    display: block;
+}
+.scrum_bannercaptions p {
+    font-size: 22px;
+    color: #FFF;
+    line-height: 30px;
+}
+.scrum_banner_div .bnr_logo {
+    background: #fff;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 14%;
+    bottom: 5%;
+    text-align: center;
+    line-height: 190px;
+    padding: 0 20px;
+    z-index: 11;
+}
+.scrum_banner_div .bnr_logo img {
+    max-width: 100%;
+}
+.scrum_slides_bgimg {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.scrum_full_slider .scrum_slidesimg {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.scrum_full_slider .scrum_slidesimg img {
+    max-height: 100%;
+    object-fit: contain;
+}
+.scrums_sectitledv {
+    margin-bottom: 30px;
+}
+.scrums_sectitledv .scrums_title {
+    font-size: 55px;
+    color: var(--red_color);
+    font-family: 'Renogare Regular';
+    margin-bottom: 10px;
+}
+.scrums_sectitledv .scrums_subtitle {
+    font-size: 40px;
+    color: var(--black_color);
+    font-family: 'Renogare Regular';
+    margin-bottom: 10px;
+}
+.scrums_sectitledv.absolute_topleft {
+    position: absolute;
+    left: 0;
+    top: 2px;
+}
+.scrum_full_slider .owl-nav {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.scrum_full_slider .owl-nav button {
+    text-align: center;
+    margin: 0 15px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    background: #fff !important;
+    box-shadow: 5px 5px 20px 0px #101A3626;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 10px;
+}
+.sprint_bg_img {
+    position: relative;
+    overflow: hidden;
+    background-image: url(../images/scrum/sprint_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 100%;
+    color: #fff
+}
+.agile_methodology_left {
+    padding: 55px 60px 55px 50px;
+    height: 100%;
+}
+.agile_methodology_left p {
+    font-size: 20px;
+    line-height: 31px;
+}
+.agile_methodology_left .paras {
+    margin-bottom: 40px;
+}
+.agile_methodology_left .block_text {
+    background: #ededed;
+    border-radius: 20px;
+    padding: 30px 55px 30px 70px;
+    position: relative;
+}.agile_methodology_left .block_text:before {
+    position: absolute;
+    content: '';
+    top: 50%;
+    left: 42px;
+    background: var(--red_color);
+    width: 3px;
+    height: 70%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.agile_methodology_left .block_text p {
+    margin-bottom: 0;
+}
+.agile_methodology_right {
+    background: var(--red_color);
+    padding: 55px 60px 55px 50px;
+    height: 100%;
+}
+.agile_methodology_right h3 {
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 35px;
+    line-height: 48px;
+    font-family: 'Renogare Regular';
+}
+.agile_methodology_right .listbox {
+    margin-bottom: 0;
+    background: #c60c10;
+    padding: 20px 30px;
+    border-radius: 30px;
+    list-style: none;
+}
+.agile_methodology_right .listbox li {
+    font-size: 20px;
+    color: #fff;
+    line-height: 26px;
+    position: relative;
+    padding-left: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ee2b30;
+    font-weight: 400;
+}
+.agile_methodology_right .listbox li .icon {
+    position: absolute;
+    content: '';
+    width: 25px;
+    height: 25px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 5px;
+    font-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*===== scrum event section ===========*/
+.scrum_event_duration_sec {
+    height: 100%;
+    padding: 30px 0;
+}
+.scrum_event_duration_sec .scrums_sectitledv {
+    margin-bottom: 50px;
+}
+.scrums_sectitledv.white_sec_title .scrums_title {
+    color: #ffffff;
+}
+.scrum_event_duration_sec .container-fluid {
+    height: auto;
+}
+.sprint_itemscol {
+    margin-bottom: 30px;
+    height: auto !important;
+}
+.scrum_event_duration_sec .sprint_items {
+    background: #fff;
+    border-radius: 20px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 45px 8px;
+    min-height: 100%;
+}
+.scrum_event_duration_sec .sprint_items .title1 {
+    font-size: 18px;
+    color: var(--black_color);
+    line-height: 21px;
+    margin-bottom: 10px;
+    word-break: break-word;
+    font-family: 'Renogare Regular';
+    text-transform: uppercase;
+}
+.scrum_event_duration_sec .sprint_items .title2 {
+    font-size: 20px;
+    color: var(--red_color);
+    margin-bottom: 15px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.scrum_event_duration_sec .sprint_items p {
+    min-height: 95px;
+}
+.row_space_6 > [class*=col-] {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.row_space_5 {
+    margin-left: -3px;
+    margin-right: -3px;
+}
+/*===== scrum event section ===========*/
+/*===== scrum process section ===========*/
+.scrum_process_sec {
+    height: 100%;
+    padding: 30px 0;
+}
+.scrum_process_sec .container-fluid, .scrum_process_sec.container {
+    height: auto;
+}
+.porcess_countrow {
+    counter-reset: list_counter;
+}
+.scrum_process_lst ul {
+    margin: 0;
+    padding: 0;
+}
+.scrum_process_lst ul li {
+    font-size: 24px;
+    color: #fff;
+    line-height: 28px;
+    margin-bottom: 20px;
+    position: relative;
+    padding: 18px 10px 18px 70px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    list-style: none;
+}
+.scrum_process_lst ul li p {
+    color: #fff;
+    margin: 0;
+    font-size: 20px;
+    line-height: 27px;
+}
+.scrum_process_lst ul li:before {
+    position: absolute;
+    counter-increment: list_counter;
+    content: counter(list_counter);
+    font-size: 50px;
+    color: #fff;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 20px;
+    height: 100%;
+    line-height: 100%;
+}
+/*===== scrum process section ===========*/
+/*===== scrum table css ===========*/
+.scrum_slide_table tr td, .scrum_slide_table thead tr th {
+    padding: 12px 15px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    text-align: center;
+    color: #000;
+    border-bottom: 1px solid #dee2e6;
+}
+.scrum_slide_table thead tr th {
+    background: red;
+    background-color: var(--red_color);
+    color: #ffffff;
+    border: none;
+    vertical-align: middle;
+    font-weight: normal;
+}
+.scrum_slide_table tr td:first-child, .scrum_slide_table thead tr th:first-child {
+    text-align: left;
+}
+.scrum_slide_table tr:last-child {
+    background: #efefef;
+    font-weight: 500;
+    font-family: 'Renogare Regular';
+}
+/*===== scrum table css ===========*/
+/*===== scrum thankyou css ===========*/
+.scrum_thankyou_div {
+
+}
+.scrum_thankyou_div {
+    position: relative;
+    overflow: hidden;
+    background-image: url(../images/scrum/thanks_bgimg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.scrum_thankyou_box {
+
+}
+.scrum_thankyou_div .ovalshape_img {
+    width: 500px;
+    position: relative;
+    margin-left: auto;
+}
+.scrum_thankyou_div .ovalshape_img .bnr_logo {
+    background: #fff;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    left: 7%;
+    bottom: -1%;
+    text-align: center;
+    line-height: 190px;
+    padding: 0 20px;
+    z-index: 11;
+}
+.srum_footer_bottom {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 12px 0px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+.srum_footer_bottom {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 12px 0px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+.srum_footer_bottom ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.srum_footer_bottom ul li {
+    padding: 0 100px;
+    border-right: 1px solid #fff;
+    font-size: 18px;
+    color: #fff;
+    display: flex;
+}
+.srum_footer_bottom ul li:last-child {
+    border-right: 0;
+}
+.srum_footer_bottom ul li .icons {
+    flex: 0 0 auto;
+    width: 20px;
+    margin-right: 8px;
+}
+.srum_footer_bottom ul li .icons i {
+    font-size: 18px;
+}
+.srum_footer_bottom ul li .icons img {
+    width: 20px;
+}
+.srum_footer_bottom ul li a {
+    font-size: 18px;
+    color: #fff;
+}
+/*===== scrum thankyou css ===========*/
+/*===== startup css ===========*/
+.starutup_bg_image {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.starutup_slide_image {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.starutup_slide_image .slideimg {
+    max-height: 100%;
+    object-fit: contain;
+}
+/*===== startup css ===========*/
+@media screen and (max-width:1600px) {
+    .scrum_slides_sec .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (max-width:1400px) {
+    .scrum_slides_sec .container {
+        max-width: 1300px;
+    }
+}
+@media screen and (max-width:1199px) {
+    .scrum_slides_sec {
+        height: calc(100vh - 198px);
+        height: -webkit-calc(100vh - 198px);
+        height: -moz-calc(100vh - 198px);
+    }
+}
+@media screen and (max-width:991px) {
+    .scrum_slidersection {
+        min-height: 150px;
+    }
+    .scrum_slides_sec {
+        height: 100vh;
+    }
+    .agile_methodology_right, .agile_methodology_left {
+        padding: 20px;
+    }
+    .starutup_bg_image {
+        background-size: contain;
+        height: 400px;
+    }
+    .scrums_sectitledv.absolute_topleft {
+        position: static;
+    }
+    .scrums_sectitledv .scrums_title {
+        font-size: 40px;
+    }
+    .agile_methodology_right h3 {
+        font-size: 30px;
+        margin-bottom: 30px;
+        line-height: 40px;
+    }
+}
+@media screen and (max-width:767px) {
+    .scrums_sectitledv .scrums_title {
+        font-size: 30px;
+    }
+    .scrums_sectitledv .scrums_subtitle {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .agile_methodology_left p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .scrm_sidemenu_containerdv {
+        width: 100%;
+        padding-right: 0;
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -o-transform: translateX(-100%);
+        transform: translateX(-100%);
+    }
+    .close_sidemenubtn {
+        width: 25px;
+        height: 25px;
+        line-height: 20px;
+    }
+    .close_sidemenubtn img {
+        width: 10px;
+    }
+    .scrm_sidemenu_wrapper.showmenus .scrm_sidemenu_containerdv {
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -ms-transform: translateX(0px);
+        -o-transform: translateX(0px);
+        transform: translateX(0px);
+    }
+    .scrum_custom_dots .owl_dot {
+        font-size: 15px;
+        padding: 0 15px;
+    }
+}
+@media screen and (max-width:480px) {
+    .cfa_scrums_header .cfa_mar_header-inner-sec {
+        justify-content: space-between !important
+    }
+    .cfa_mar-header_ryt-sec {
+        margin-top: 0;
+    }
+    .cfa_scrums_header .cfa_mar_logo {
+        align-self: center;
+    }
+}
