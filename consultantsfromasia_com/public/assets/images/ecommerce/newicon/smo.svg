@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
-  <g id="smo" transform="translate(-835 -902)">
-    <text id="SMO-2" data-name="SMO" transform="translate(842 924)" fill="#292d32" font-size="10" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">SMO</tspan></text>
-    <path id="Vector" d="M25.384,37H3.012A3.026,3.026,0,0,1,0,33.988V11.616C0,4.01,4.01,0,11.616,0H25.384C32.99,0,37,4.01,37,11.616V25.384C37,32.99,32.99,37,25.384,37ZM11.616,2.581c-6.161,0-9.035,2.874-9.035,9.035V33.988a.426.426,0,0,0,.43.43H25.384c6.161,0,9.035-2.874,9.035-9.035V11.616c0-6.161-2.874-9.035-9.035-9.035Z" transform="translate(835 902)" fill="#db1010"/>
-  </g>
-</svg>
